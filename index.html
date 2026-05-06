@@ -345,6 +345,12 @@
         font-weight: 500;
         letter-spacing: 0.01em;
         color: var(--muted);
+      }
+
+      .badges {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
         margin-bottom: 12px;
       }
 
@@ -587,6 +593,13 @@
       let products = [];
       let activeCat = "";
 
+      function productCats(product) {
+        if (Array.isArray(product.cats) && product.cats.length) {
+          return product.cats;
+        }
+        return product.cat ? [product.cat] : [];
+      }
+
       function age(born, died) {
         const n = died - born;
         if (n <= 0) return "less than a year";
@@ -598,12 +611,13 @@
         const sort = sortSel.value;
 
         let list = products.filter((p) => {
+          const cats = productCats(p);
           const hit =
             !q ||
             p.name.toLowerCase().includes(q) ||
             p.desc.toLowerCase().includes(q) ||
-            p.cat.toLowerCase().includes(q);
-          return hit && (!activeCat || p.cat === activeCat);
+            cats.some((cat) => cat.toLowerCase().includes(q));
+          return hit && (!activeCat || cats.includes(activeCat));
         });
 
         list.sort((a, b) => {
@@ -642,12 +656,17 @@
 
         grid.innerHTML = list
           .map(
-            (p) => `
+            (p) => {
+              const cats = productCats(p);
+
+              return `
     <div class="card">
       <div class="card-body">
         <div class="card-icon-wrap">${p.icon}</div>
         <div class="card-name">${p.name}</div>
-        <div class="badge">${p.cat}</div>
+        <div class="badges">${cats
+          .map((cat) => `<div class="badge">${cat}</div>`)
+          .join("")}</div>
         <p class="card-desc">${p.desc}</p>
         ${renderRefs(p)}
       </div>
@@ -660,7 +679,8 @@
         <span class="age">${age(p.born, p.died)}</span>
       </div>
     </div>
-  `,
+  `;
+            },
           )
           .join("");
       }

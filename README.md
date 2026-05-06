@@ -9,7 +9,7 @@ Add, remove, or update entries in `products.json`. Each item uses this shape:
 ```json
 {
   "name": "Example Product",
-  "cat": "Hardware",
+  "cats": ["Hardware"],
   "icon": "🖥️",
   "desc": "Short description.",
   "born": 2000,
@@ -22,5 +22,7 @@ Add, remove, or update entries in `products.json`. Each item uses this shape:
   ]
 }
 ```
+
+Use `cats` for one or more categories. For example, Mac hardware should usually include both `"Mac"` and `"Hardware"`.
 
 `refs` is optional. Use it for launch announcements, support notes, replacement announcements, or other source material for why the product ended.
