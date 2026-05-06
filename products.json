@@ -510,5 +510,197 @@
     "desc": "Apple's slim, reversible 8-pin connector, used on every iPhone for over a decade. Replaced by USB-C in 2023 after EU regulations made proprietary connectors legally untenable.",
     "born": 2012,
     "died": 2023
+  },
+  {
+    "name": "AirPower",
+    "cat": "Hardware",
+    "icon": "🔌",
+    "desc": "Apple's wireless charging mat, announced in 2017 to charge iPhone, AirPods, and Apple Watch all at once on any spot. Cancelled in 2019 after Apple admitted it could not meet its own quality standards. The first product Apple ever announced and never shipped.",
+    "born": 2017,
+    "died": 2019
+  },
+  {
+    "name": "iMac G3",
+    "cat": "Mac",
+    "icon": "🌊",
+    "desc": "The translucent Bondi Blue all-in-one that saved Apple from bankruptcy. Designed by Jony Ive, eventually offered in five fruity colors, and sold over six million units. The product that proved Apple could still ship something the world wanted.",
+    "born": 1998,
+    "died": 2003
+  },
+  {
+    "name": "iMac G4",
+    "cat": "Mac",
+    "icon": "💡",
+    "desc": "The sunflower iMac, with a flat-panel display floating on a chrome arm above a hemispherical dome. Beloved by designers and discontinued after just 30 months when Apple decided the screen should be the computer.",
+    "born": 2002,
+    "died": 2004
+  },
+  {
+    "name": "iBook",
+    "cat": "Mac",
+    "icon": "💻",
+    "desc": "The colorful consumer laptop, born as the G3 clamshell in tangerine and blueberry, reborn in 2003 as a refined white slab. Retired when Apple switched to Intel and replaced it with the MacBook.",
+    "born": 1999,
+    "died": 2006
+  },
+  {
+    "name": "Power Mac G5",
+    "cat": "Mac",
+    "icon": "🗄️",
+    "desc": "Apple's aluminum tower with a perforated cheese-grater face, promoted as the world's fastest personal computer. Steve Jobs promised 3GHz within a year. It never came, and Apple jumped to Intel two years later.",
+    "born": 2003,
+    "died": 2006
+  },
+  {
+    "name": "PowerBook",
+    "cat": "Mac",
+    "icon": "💼",
+    "desc": "Apple's professional laptop line for 15 years, evolving from the chunky 100 series to the titanium and aluminum G4. Retired when Apple switched to Intel and rebranded the line as MacBook Pro.",
+    "born": 1991,
+    "died": 2006
+  },
+  {
+    "name": "Hockey Puck Mouse",
+    "cat": "Hardware",
+    "icon": "🏒",
+    "desc": "The round USB mouse that shipped with the original iMac G3. Impossible to orient by feel and hated by every reviewer who touched it. Replaced within two years by the Apple Pro Mouse and remembered as a cautionary tale in industrial design.",
+    "born": 1998,
+    "died": 2000
+  },
+  {
+    "name": "Mighty Mouse",
+    "cat": "Hardware",
+    "icon": "🖱️",
+    "desc": "Apple's first multi-button mouse, with a tiny clickable scroll ball on top. The ball clogged with skin oils within months, leaving users frantically rolling it upside down on paper to bring it back to life.",
+    "born": 2005,
+    "died": 2009
+  },
+  {
+    "name": "iPod Hi-Fi",
+    "cat": "Hardware",
+    "icon": "📻",
+    "desc": "Apple's $349 boombox speaker dock for the iPod, personally championed by Steve Jobs at its launch as audiophile-quality. Discontinued 18 months later as the rest of the speaker industry caught up and sold the same thing for less.",
+    "born": 2006,
+    "died": 2007
+  },
+  {
+    "name": "Smart Battery Case",
+    "cat": "Hardware",
+    "icon": "🔋",
+    "desc": "Apple's official iPhone case with a built-in battery, instantly recognizable for the hunchback bulge that broke every other iPhone case design rule. Quietly discontinued in 2020 once MagSafe wireless charging arrived.",
+    "born": 2015,
+    "died": 2020
+  },
+  {
+    "name": "iPhone 5c",
+    "cat": "Hardware",
+    "icon": "📱",
+    "desc": "The plastic, candy-colored iPhone marketed as the affordable option, sold alongside the premium 5s. It was outsold by the 5s in nearly every market and ended Apple's brief experiment with a mid-tier consumer iPhone.",
+    "born": 2013,
+    "died": 2015
+  },
+  {
+    "name": "iPhone X",
+    "cat": "Hardware",
+    "icon": "📱",
+    "desc": "Apple's tenth-anniversary iPhone, the first with Face ID and an edge-to-edge OLED display. Discontinued exactly one year after launch, an unusually short lifespan for a flagship iPhone.",
+    "born": 2017,
+    "died": 2018
+  },
+  {
+    "name": "iPhone 13 mini",
+    "cat": "Hardware",
+    "icon": "📱",
+    "desc": "The last iPhone with a small screen, beloved by a vocal minority and ignored by everyone else. Apple killed the mini line in 2023, ending a brief experiment in giving people what they said they wanted.",
+    "born": 2021,
+    "died": 2023
+  },
+  {
+    "name": "Apple Watch (Series 0)",
+    "cat": "Hardware",
+    "icon": "⌚",
+    "desc": "The original Apple Watch, launched in 2015 amid breathless hype as the future of wearables. Sluggish and short on battery, it was retroactively rebranded as 'Series 0' once Series 1 arrived 18 months later.",
+    "born": 2015,
+    "died": 2016
+  },
+  {
+    "name": "Sherlock",
+    "cat": "Software",
+    "icon": "🔍",
+    "desc": "The system search tool in Mac OS that hunted across local files, the web, and online databases. Replaced by Spotlight in 2005 and remembered as the origin of 'sherlocked', the verb for when Apple kills a third-party app by building its features in.",
+    "born": 1998,
+    "died": 2005
+  },
+  {
+    "name": "iChat",
+    "cat": "Software",
+    "icon": "💬",
+    "desc": "Apple's instant messaging client, supporting AIM, Jabber, and Bonjour. The colorful chat bubbles became iconic before iChat was rebranded as Messages and folded into iMessage in OS X Mountain Lion.",
+    "born": 2002,
+    "died": 2012
+  },
+  {
+    "name": "Safari for Windows",
+    "cat": "Software",
+    "icon": "🧭",
+    "desc": "Apple's attempt to bring Safari to Windows, announced by Steve Jobs as part of his iPhone web strategy. Plagued by security holes and strange font rendering, it was quietly abandoned in 2012 with vulnerabilities still unpatched.",
+    "born": 2007,
+    "died": 2012
+  },
+  {
+    "name": "Mac OS 9",
+    "cat": "Software",
+    "icon": "⚰️",
+    "desc": "The final version of the classic Mac OS, foundation of Apple computing for 18 years. Steve Jobs literally held a funeral for it on stage at WWDC 2002, complete with eulogy, organ music, and an open coffin.",
+    "born": 1999,
+    "died": 2002
+  },
+  {
+    "name": "OpenDoc",
+    "cat": "Software",
+    "icon": "📑",
+    "desc": "Apple's ambitious component-based document framework, designed to replace monolithic apps with modular parts. Steve Jobs killed it within months of returning to Apple in 1997, calling it overengineered and a distraction from shipping a real OS.",
+    "born": 1992,
+    "died": 1997
+  },
+  {
+    "name": "AppleTalk",
+    "cat": "Software",
+    "icon": "📡",
+    "desc": "The networking protocol that let any Mac on a LocalTalk cable share files and printers with zero configuration. Phased out in macOS Snow Leopard after 24 years, as Apple standardized on TCP/IP and Bonjour.",
+    "born": 1985,
+    "died": 2009
+  },
+  {
+    "name": "iTunes Festival",
+    "cat": "Service",
+    "icon": "🎤",
+    "desc": "Apple's annual month-long free concert series at London's Roundhouse, featuring artists from Adele to Pharrell streamed live to iTunes users. Renamed Apple Music Festival in 2015 and quietly ended after the 2016 season.",
+    "born": 2007,
+    "died": 2017
+  },
+  {
+    "name": "Photo Stream",
+    "cat": "Service",
+    "icon": "☁️",
+    "desc": "Apple's free photo sync service that automatically pushed the last 1,000 photos to all your Apple devices for 30 days. Replaced by iCloud Photos and finally shut down in 2023 after running quietly in the background for 12 years.",
+    "born": 2011,
+    "died": 2023
+  },
+  {
+    "name": "FireWire",
+    "cat": "Feature",
+    "icon": "🔥",
+    "desc": "Apple's high-speed serial bus, co-developed with Sony and TI for digital video and audio professionals. Faster than USB at launch, beaten by cheaper USB at every revision, and removed from the last MacBook Pro in 2012.",
+    "born": 1999,
+    "died": 2012
+  },
+  {
+    "name": "MagSafe (laptop)",
+    "cat": "Feature",
+    "icon": "🧲",
+    "desc": "The magnetic power connector that detached harmlessly when someone tripped over the cable, saving countless MacBooks from broken ports. Removed in 2016 for USB-C, then quietly restored five years later when Apple admitted USB-C was not actually better.",
+    "born": 2006,
+    "died": 2016
   }
 ]
