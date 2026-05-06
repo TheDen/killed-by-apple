@@ -174,6 +174,9 @@
       }
 
       .cat-pill {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
         padding: 5px 14px;
         border-radius: 980px;
         font-size: 13px;
@@ -189,6 +192,10 @@
           color 0.15s,
           border-color 0.15s;
         white-space: nowrap;
+      }
+
+      .cat-pill-count {
+        opacity: 0.72;
       }
 
       .cat-pill:hover {
@@ -518,19 +525,7 @@
 
     <div class="filterbar">
       <div class="filterbar-inner">
-        <div class="cat-pills" id="cat-pills">
-          <button class="cat-pill active" data-cat="">All</button>
-          <button class="cat-pill" data-cat="Hardware">Hardware</button>
-          <button class="cat-pill" data-cat="Software">Software</button>
-          <button class="cat-pill" data-cat="Service">Service</button>
-          <button class="cat-pill" data-cat="Feature">Feature</button>
-          <button class="cat-pill" data-cat="Mac">Mac</button>
-          <button class="cat-pill" data-cat="iPhone">iPhone</button>
-          <button class="cat-pill" data-cat="iPad">iPad</button>
-          <button class="cat-pill" data-cat="iPod">iPod</button>
-          <button class="cat-pill" data-cat="Apple Watch">Apple Watch</button>
-          <button class="cat-pill" data-cat="TV">TV</button>
-        </div>
+        <div class="cat-pills" id="cat-pills"></div>
         <div class="filter-divider"></div>
         <div class="search-wrap">
           <svg width="13" height="13" viewBox="0 0 13 13" fill="none">
@@ -590,7 +585,21 @@
       const search = document.getElementById("search");
       const sortSel = document.getElementById("sort");
       const navCount = document.getElementById("nav-count");
-      const catPills = document.querySelectorAll(".cat-pill");
+      const catPills = document.getElementById("cat-pills");
+
+      const categoryOptions = [
+        { value: "", label: "All" },
+        { value: "Hardware", label: "Hardware" },
+        { value: "Software", label: "Software" },
+        { value: "Service", label: "Service" },
+        { value: "Feature", label: "Feature" },
+        { value: "Mac", label: "Mac" },
+        { value: "iPhone", label: "iPhone" },
+        { value: "iPad", label: "iPad" },
+        { value: "iPod", label: "iPod" },
+        { value: "Apple Watch", label: "Apple Watch" },
+        { value: "TV", label: "TV" },
+      ];
 
       let products = [];
       let activeCat = "";
@@ -608,19 +617,52 @@
         return n === 1 ? "1 year" : `${n} years`;
       }
 
+      function matchesSearch(product, query) {
+        const cats = productCats(product);
+        return (
+          !query ||
+          product.name.toLowerCase().includes(query) ||
+          product.desc.toLowerCase().includes(query) ||
+          cats.some((cat) => cat.toLowerCase().includes(query))
+        );
+      }
+
+      function renderCatPills(baseList) {
+        const counts = new Map();
+        categoryOptions.forEach((option) => counts.set(option.value, 0));
+        counts.set("", baseList.length);
+
+        baseList.forEach((product) => {
+          productCats(product).forEach((cat) => {
+            counts.set(cat, (counts.get(cat) || 0) + 1);
+          });
+        });
+
+        catPills.innerHTML = categoryOptions
+          .map(
+            ({ value, label }) => `
+              <button class="cat-pill${value === activeCat ? " active" : ""}" data-cat="${value}">
+                <span>${label}</span>
+                <span class="cat-pill-count">${counts.get(value) || 0}</span>
+              </button>
+            `,
+          )
+          .join("");
+      }
+
       function render() {
         const q = search.value.toLowerCase().trim();
         const sort = sortSel.value;
+        const baseList = products.filter((p) => matchesSearch(p, q));
 
-        let list = products.filter((p) => {
+        renderCatPills(baseList);
+
+        let list = baseList.filter((p) => {
           const cats = productCats(p);
-          const hit =
-            !q ||
-            p.name.toLowerCase().includes(q) ||
-            p.desc.toLowerCase().includes(q) ||
-            cats.some((cat) => cat.toLowerCase().includes(q));
-          return hit && (!activeCat || cats.includes(activeCat));
+          return !activeCat || cats.includes(activeCat);
         });
+
+        navCount.textContent = `${list.length} shown of ${products.length}`;
 
         list.sort((a, b) => {
           if (sort === "died-desc") return b.died - a.died;
@@ -685,13 +727,11 @@
           .join("");
       }
 
-      catPills.forEach((pill) => {
-        pill.addEventListener("click", () => {
-          catPills.forEach((p) => p.classList.remove("active"));
-          pill.classList.add("active");
-          activeCat = pill.dataset.cat;
-          render();
-        });
+      catPills.addEventListener("click", (event) => {
+        const pill = event.target.closest(".cat-pill");
+        if (!pill) return;
+        activeCat = pill.dataset.cat;
+        render();
       });
 
       search.addEventListener("input", render);
@@ -701,7 +741,6 @@
         .then((r) => r.json())
         .then((data) => {
           products = data;
-          navCount.textContent = `${products.length} killed`;
           render();
         })
         .catch(() => {
