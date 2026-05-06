@@ -1,19 +1,19 @@
 [
   {
     "name": "Apple III",
-    "cat": "Mac",
+    "cat": "Hardware",
     "icon": "🖥️",
-    "desc": "Apple's business computer, plagued from launch by overheating. Engineers removed the fan to make it silent, so chips warped and fell off the board.",
+    "desc": "Apple's business computer, plagued by overheating and reliability problems after Apple chose silence over a cooling fan. The redesigned Apple III Plus arrived too late to save the line.",
     "born": 1980,
     "died": 1984
   },
   {
     "name": "Apple Lisa",
-    "cat": "Mac",
+    "cat": "Hardware",
     "icon": "🖥️",
-    "desc": "Apple's first GUI-based personal computer at $9,995. Technically remarkable, commercially ruinous. Outclassed and outpriced by the Mac a year later.",
+    "desc": "Apple's first GUI-based business computer at $9,995. Technically remarkable, commercially ruinous, and quickly outclassed and outpriced by the Macintosh.",
     "born": 1983,
-    "died": 1985
+    "died": 1986
   },
   {
     "name": "Apple QuickTake",
@@ -27,7 +27,7 @@
     "name": "Pippin",
     "cat": "Hardware",
     "icon": "🕹️",
-    "desc": "Apple's multimedia gaming platform co-developed with Bandai. It sold just 42,000 units and cost nearly $600 at launch. An ambitious experiment in all the wrong directions.",
+    "desc": "Apple's multimedia gaming platform co-developed with Bandai. It sold only about 42,000 units worldwide and cost nearly $600 at launch. An ambitious experiment in all the wrong directions.",
     "born": 1996,
     "died": 1997
   },
@@ -35,7 +35,7 @@
     "name": "Newton MessagePad",
     "cat": "Hardware",
     "icon": "📟",
-    "desc": "Apple's pioneering PDA, famous for ambitious handwriting recognition that became a punchline. Steve Jobs canceled it two weeks after taking back the CEO seat.",
+    "desc": "Apple's pioneering PDA, famous for ambitious handwriting recognition that became a punchline. Steve Jobs canceled the Newton platform in 1998 after returning to Apple.",
     "born": 1993,
     "died": 1998
   },
@@ -43,7 +43,7 @@
     "name": "Power Mac G4 Cube",
     "cat": "Mac",
     "icon": "📦",
-    "desc": "A fanless, silent 8-inch cube of a Mac and a genuine design triumph. But at $1,799 for a machine slower than the Power Mac G4 tower, it was a commercial failure.",
+    "desc": "A fanless, silent 8-inch cube of a Mac and a genuine design triumph. But at $1,799, with limited expandability and cheaper Power Mac G4 towers nearby, it was a commercial failure.",
     "born": 2000,
     "died": 2001
   },
@@ -67,7 +67,7 @@
     "name": "iPod mini",
     "cat": "Hardware",
     "icon": "🎵",
-    "desc": "The colorful, compact iPod that made music fashionable. It became Apple's best-selling product, then was discontinued to make way for the even thinner iPod nano.",
+    "desc": "The colorful, compact iPod that made portable music fashionable. It quickly became a hit, then was discontinued to make way for the even thinner iPod nano.",
     "born": 2004,
     "died": 2005
   },
@@ -75,7 +75,7 @@
     "name": "Shake",
     "cat": "Software",
     "icon": "🎬",
-    "desc": "Professional VFX compositing software used in countless Hollywood films. Apple acquired it, charged for it, then killed it in 2009 without offering any replacement.",
+    "desc": "Professional VFX compositing software used on major Hollywood films. Apple acquired it, sold it as a high-end Mac tool, then discontinued it in 2009 without a direct successor.",
     "born": 2002,
     "died": 2009
   },
@@ -83,7 +83,7 @@
     "name": "Apple Cinema Display",
     "cat": "Hardware",
     "icon": "🖥️",
-    "desc": "Apple's aluminum widescreen monitors, beloved by designers and video editors. Quietly discontinued in 2011, leaving professionals without an Apple display option.",
+    "desc": "Apple's widescreen external monitors, beloved by designers and video editors. The Cinema Display line was replaced by the Thunderbolt Display in 2011.",
     "born": 1999,
     "died": 2011
   },
@@ -91,8 +91,8 @@
     "name": "Final Cut Server",
     "cat": "Software",
     "icon": "🎬",
-    "desc": "A collaborative media asset management system for Final Cut Pro workflows in studios and broadcast. Discontinued alongside the controversial Final Cut Pro X launch.",
-    "born": 2009,
+    "desc": "A collaborative media asset management system for Final Cut Pro workflows in studios and broadcast. Discontinued in 2011 during Apple's messy Final Cut Pro X transition.",
+    "born": 2008,
     "died": 2011
   },
   {
@@ -115,7 +115,7 @@
     "name": "iWeb",
     "cat": "Software",
     "icon": "🌐",
-    "desc": "Drag-and-drop personal website creator, tightly integrated with MobileMe hosting. When MobileMe shut down, iWeb had nowhere to publish, so it died too.",
+    "desc": "Drag-and-drop personal website creator, tightly integrated with MobileMe hosting. As MobileMe was wound down and iCloud offered no web hosting replacement, iWeb was left behind.",
     "born": 2006,
     "died": 2011
   },
@@ -139,7 +139,7 @@
     "name": "Xserve",
     "cat": "Hardware",
     "icon": "🖥️",
-    "desc": "Apple's rack-mounted 1U server hardware and one of Apple's few genuine enterprise products. Quietly discontinued in favor of telling enterprises to buy a Mac Pro.",
+    "desc": "Apple's rack-mounted 1U server hardware and one of Apple's few genuine enterprise products. Discontinued as Apple pushed customers toward Mac Pro and Mac mini server configurations.",
     "born": 2002,
     "died": 2011
   },
@@ -163,15 +163,15 @@
     "name": "Aperture",
     "cat": "Software",
     "icon": "📷",
-    "desc": "Apple's professional photo management and RAW editing suite, and Lightroom's closest rival for years. Killed and replaced by Photos, which couldn't do a fraction of what it did.",
+    "desc": "Apple's professional photo management and RAW editing suite, and Lightroom's closest rival for years. Killed in favor of Photos, which launched without many of Aperture's pro features.",
     "born": 2005,
-    "died": 2014
+    "died": 2015
   },
   {
     "name": "iPod classic",
     "cat": "Hardware",
     "icon": "🎵",
-    "desc": "The original click-wheel iPod that started everything. Discontinued after 13 years not by choice, but because a key internal component was no longer manufactured anywhere.",
+    "desc": "The hard-drive click-wheel iPod that defined the line for more than a decade. Discontinued in 2014 as Apple moved its music focus to flash storage, iPhone, and streaming.",
     "born": 2001,
     "died": 2014
   },
@@ -179,7 +179,7 @@
     "name": "Beats Music",
     "cat": "Service",
     "icon": "🎧",
-    "desc": "Dr. Dre's streaming service, praised for human-curated playlists. Apple acquired Beats for $3 billion and shut down Beats Music within months to build Apple Music.",
+    "desc": "Dr. Dre and Jimmy Iovine's streaming service, praised for human-curated playlists. Apple acquired Beats for $3 billion and shut Beats Music down the next year as Apple Music took over.",
     "born": 2014,
     "died": 2015
   },
@@ -195,7 +195,7 @@
     "name": "iAd",
     "cat": "Service",
     "icon": "📱",
-    "desc": "Apple's mobile advertising platform. Steve Jobs claimed it would \"reinvent\" advertising. It never seriously challenged Google. Shut down after six increasingly quiet years.",
+    "desc": "Apple's mobile advertising platform. Steve Jobs said it would \"reinvent\" mobile advertising. It never seriously challenged Google, and Apple shut the network down after six quiet years.",
     "born": 2010,
     "died": 2016
   },
@@ -219,7 +219,7 @@
     "name": "Thunderbolt Display",
     "cat": "Hardware",
     "icon": "🖥️",
-    "desc": "Apple's last standalone external monitor before the Pro Display XDR. Discontinued in 2016 without a replacement, leaving professional Mac users without an Apple display for three full years.",
+    "desc": "Apple's last standalone external monitor before the Pro Display XDR. Discontinued in 2016 without a direct Apple replacement, leaving pro Mac users waiting until 2019.",
     "born": 2011,
     "died": 2016
   },
@@ -227,7 +227,7 @@
     "name": "32-bit iOS App Support",
     "cat": "Feature",
     "icon": "📱",
-    "desc": "iOS 11 dropped support for 32-bit apps, rendering thousands of games and apps permanently unplayable. Many developers had already moved on; many players hadn't.",
+    "desc": "iOS 11 dropped support for 32-bit apps, rendering thousands of older games and apps permanently unplayable on updated devices. Many developers had already moved on; many users had not.",
     "born": 2007,
     "died": 2017
   },
@@ -251,7 +251,7 @@
     "name": "AirPort Express",
     "cat": "Hardware",
     "icon": "📡",
-    "desc": "Apple's compact Wi-Fi router that doubled as a wired AirPlay audio receiver, beloved by audiophiles who wanted wireless hi-fi without the hassle. Gone with the rest of the AirPort line.",
+    "desc": "Apple's compact Wi-Fi router that doubled as a wired AirPlay audio receiver, beloved by people who wanted wireless audio without replacing their speakers. Gone with the rest of the AirPort line.",
     "born": 2004,
     "died": 2018
   },
@@ -259,7 +259,7 @@
     "name": "AirPort Extreme",
     "cat": "Hardware",
     "icon": "📡",
-    "desc": "Apple's flagship home Wi-Fi router with its striking cylindrical tower design and seamless Time Machine integration. Discontinued as Apple exited the router business entirely.",
+    "desc": "Apple's flagship home Wi-Fi router, later redesigned into a striking vertical tower. Discontinued as Apple exited the router business entirely.",
     "born": 2003,
     "died": 2018
   },
@@ -291,15 +291,15 @@
     "name": "32-bit macOS App Support",
     "cat": "Feature",
     "icon": "💻",
-    "desc": "macOS Catalina dropped 32-bit app support entirely, breaking thousands of games and legacy applications with no migration path and no warning beyond a single OS version.",
-    "born": 1999,
+    "desc": "macOS Catalina dropped 32-bit app support entirely, breaking thousands of games and legacy applications after one major release of prominent warnings.",
+    "born": 2001,
     "died": 2019
   },
   {
     "name": "Texture",
     "cat": "Service",
     "icon": "📰",
-    "desc": "A magazine subscription app dubbed \"the Netflix of magazines.\" Apple acquired it in 2018 and quietly folded it into Apple News+, without keeping all of its content agreements.",
+    "desc": "A magazine subscription service born as Next Issue and later rebranded Texture, dubbed \"the Netflix of magazines.\" Apple acquired it in 2018 and folded the idea into Apple News+.",
     "born": 2012,
     "died": 2019
   },
@@ -307,7 +307,7 @@
     "name": "Apple Remote",
     "cat": "Hardware",
     "icon": "🎮",
-    "desc": "The minimalist aluminum infrared remote, designed for controlling Macs and Apple TV from across the room. Quietly discontinued in 2021 as the Siri Remote took its place.",
+    "desc": "Apple's minimalist infrared remote for Macs, iPod docks, and early Apple TVs, first in white plastic and later in aluminum. It faded out as Siri Remote and software remotes took over.",
     "born": 2005,
     "died": 2021
   },
@@ -339,17 +339,17 @@
     "name": "HomePod (1st gen)",
     "cat": "Hardware",
     "icon": "🔊",
-    "desc": "Apple's premium smart speaker with genuinely excellent audio quality. Discontinued to consolidate around the HomePod mini. Sales never justified its $349 price tag.",
+    "desc": "Apple's premium smart speaker with genuinely excellent audio quality. Discontinued in 2021 as Apple focused on the cheaper HomePod mini, before reviving the full-size HomePod in 2023.",
     "born": 2018,
-    "died": 2023
+    "died": 2021
   },
   {
     "name": "iPhone SE (3rd gen)",
     "cat": "Hardware",
     "icon": "📱",
-    "desc": "Apple's last affordable iPhone, and the last iPhone with a Home button and Touch ID. Quietly discontinued as Apple consolidated its lineup around Face ID.",
+    "desc": "Apple's last iPhone with a Home button, Touch ID, an LCD screen, and a Lightning port. Discontinued when Apple replaced the SE line with the iPhone 16e.",
     "born": 2022,
-    "died": 2024
+    "died": 2025
   },
   {
     "name": "Macintosh TV",
@@ -387,25 +387,25 @@
     "name": "iSync",
     "cat": "Software",
     "icon": "🔄",
-    "desc": "A Mac utility for syncing contacts, calendars, and bookmarks across Macs, phones, and iPods over Bluetooth or USB. Essential before iCloud made the whole idea obsolete.",
+    "desc": "A Mac utility for syncing contacts, calendars, and bookmarks across Macs, phones, and iPods over Bluetooth or USB. Removed from OS X Lion as iCloud made manual device sync feel obsolete.",
     "born": 2002,
-    "died": 2010
+    "died": 2011
   },
   {
     "name": "eMac",
     "cat": "Mac",
     "icon": "🖥️",
-    "desc": "An education-focused all-in-one Mac built around a 17-inch CRT. Initially sold only to schools, briefly offered to consumers. The last Mac ever shipped with a cathode-ray tube.",
+    "desc": "An education-focused all-in-one Mac built around a 17-inch CRT. Initially sold only to schools, briefly offered to consumers, then returned to education before being discontinued in 2006.",
     "born": 2002,
-    "died": 2005
+    "died": 2006
   },
   {
     "name": "iSight",
     "cat": "Hardware",
     "icon": "📹",
-    "desc": "Apple's sleek external FireWire webcam: aluminum, cylindrical, and perfectly designed. Made obsolete when Apple built cameras into every Mac and display it sold.",
+    "desc": "Apple's sleek external FireWire webcam: aluminum, cylindrical, and perfectly designed. Discontinued once Apple started building cameras into iMacs, MacBooks, and displays.",
     "born": 2003,
-    "died": 2008
+    "died": 2006
   },
   {
     "name": "30-pin Dock Connector",
@@ -424,10 +424,10 @@
     "died": 2016
   },
   {
-    "name": "Game Center",
-    "cat": "Service",
+    "name": "Game Center app",
+    "cat": "Software",
     "icon": "🏆",
-    "desc": "Apple's social gaming network with achievements, leaderboards, and multiplayer matchmaking. The standalone app was silently removed in iOS 10, Apple's quiet admission that no one used it.",
+    "desc": "Apple's standalone iOS app for achievements, leaderboards, and multiplayer matchmaking. The service survived, but the app was removed in iOS 10 after years of neglect.",
     "born": 2010,
     "died": 2016
   },
@@ -435,9 +435,9 @@
     "name": "Apple TV (3rd gen)",
     "cat": "Hardware",
     "icon": "📺",
-    "desc": "The streaming set-top box that never got an App Store. It played video and little else. Quietly discontinued once the 4th-gen Apple TV finally delivered the platform Jobs had promised for years.",
+    "desc": "The streaming set-top box that never got an App Store. It played video and little else, and lingered as the cheaper Apple TV until Apple finally discontinued it in 2016.",
     "born": 2012,
-    "died": 2015
+    "died": 2016
   },
   {
     "name": "iTunes Radio",
@@ -472,42 +472,42 @@
     "died": 2019
   },
   {
-    "name": "Remote (iOS app)",
+    "name": "Apple TV Remote app",
     "cat": "Software",
     "icon": "📱",
-    "desc": "Apple's official app for controlling iTunes and Apple TV from an iPhone. Downloaded by millions and used daily for over a decade. Silently pulled from the App Store in 2021.",
-    "born": 2008,
-    "died": 2021
+    "desc": "Apple's official iPhone and iPad app for controlling Apple TV. Pulled from the App Store after Apple moved the remote into Control Center.",
+    "born": 2016,
+    "died": 2020
   },
   {
     "name": "Dashboard",
     "cat": "Software",
     "icon": "🪟",
-    "desc": "macOS's dedicated layer of mini-apps called widgets, accessed with a keystroke. Groundbreaking in 2004, a memory hog by 2014, and finally removed in macOS Monterey after 17 years of neglect.",
-    "born": 2004,
-    "died": 2021
+    "desc": "macOS's dedicated layer of mini-apps called widgets, accessed with a keystroke. Groundbreaking in Tiger, disabled by default years later, and finally removed in macOS Catalina.",
+    "born": 2005,
+    "died": 2019
   },
   {
     "name": "Network Utility",
     "cat": "Software",
     "icon": "🔧",
-    "desc": "A Mac app for network diagnostics: ping, traceroute, port scanning, Whois lookups. A staple for sysadmins and power users for over 20 years. Removed from macOS Monterey without any warning.",
-    "born": 1999,
-    "died": 2021
+    "desc": "A Mac app for network diagnostics: ping, traceroute, port scanning, Whois lookups. A staple for sysadmins and power users, deprecated in macOS Big Sur.",
+    "born": 2001,
+    "died": 2020
   },
   {
     "name": "Touch Bar",
     "cat": "Feature",
     "icon": "⌨️",
-    "desc": "The OLED strip that replaced the function key row on MacBook Pros. A programmable, context-sensitive control surface that most users ignored, most developers never supported, and Apple quietly dropped.",
+    "desc": "The OLED strip that replaced the function key row on MacBook Pros. A programmable, context-sensitive control surface that most users ignored, most developers never supported, and Apple finally dropped with the last 13-inch MacBook Pro.",
     "born": 2016,
-    "died": 2022
+    "died": 2023
   },
   {
     "name": "Lightning Connector",
     "cat": "Feature",
     "icon": "⚡",
-    "desc": "Apple's slim, reversible 8-pin connector, used on every iPhone for over a decade. Replaced by USB-C in 2023 after EU regulations made proprietary connectors legally untenable.",
+    "desc": "Apple's slim, reversible 8-pin connector, used on iPhone for more than a decade. Replaced on new iPhones by USB-C in 2023 after years of regulatory and industry pressure.",
     "born": 2012,
     "died": 2023
   },
@@ -515,7 +515,7 @@
     "name": "AirPower",
     "cat": "Hardware",
     "icon": "🔌",
-    "desc": "Apple's wireless charging mat, announced in 2017 to charge iPhone, AirPods, and Apple Watch all at once on any spot. Cancelled in 2019 after Apple admitted it could not meet its own quality standards. The first product Apple ever announced and never shipped.",
+    "desc": "Apple's wireless charging mat, announced in 2017 to charge iPhone, AirPods, and Apple Watch at once from almost any position. Canceled in 2019 after Apple said it could not meet its own standards.",
     "born": 2017,
     "died": 2019
   },
@@ -523,7 +523,7 @@
     "name": "iMac G3",
     "cat": "Mac",
     "icon": "🌊",
-    "desc": "The translucent Bondi Blue all-in-one that saved Apple from bankruptcy. Designed by Jony Ive, eventually offered in five fruity colors, and sold over six million units. The product that proved Apple could still ship something the world wanted.",
+    "desc": "The translucent Bondi Blue all-in-one that helped pull Apple back from the brink. Designed under Jony Ive, later offered in fruity colors, and proof that Apple could still ship something the world wanted.",
     "born": 1998,
     "died": 2003
   },
@@ -531,7 +531,7 @@
     "name": "iMac G4",
     "cat": "Mac",
     "icon": "💡",
-    "desc": "The sunflower iMac, with a flat-panel display floating on a chrome arm above a hemispherical dome. Beloved by designers and discontinued after just 30 months when Apple decided the screen should be the computer.",
+    "desc": "The sunflower iMac, with a flat-panel display floating on a chrome arm above a hemispherical dome. Beloved by designers and discontinued when Apple moved toward putting the whole computer behind the screen.",
     "born": 2002,
     "died": 2004
   },
@@ -539,7 +539,7 @@
     "name": "iBook",
     "cat": "Mac",
     "icon": "💻",
-    "desc": "The colorful consumer laptop, born as the G3 clamshell in tangerine and blueberry, reborn in 2003 as a refined white slab. Retired when Apple switched to Intel and replaced it with the MacBook.",
+    "desc": "Apple's consumer laptop line, born as the colorful G3 clamshell in tangerine and blueberry and later refined into the white iBook. Retired when Apple switched to Intel and replaced it with the MacBook.",
     "born": 1999,
     "died": 2006
   },
@@ -571,7 +571,7 @@
     "name": "Mighty Mouse",
     "cat": "Hardware",
     "icon": "🖱️",
-    "desc": "Apple's first multi-button mouse, with a tiny clickable scroll ball on top. The ball clogged with skin oils within months, leaving users frantically rolling it upside down on paper to bring it back to life.",
+    "desc": "Apple's first widely sold multi-button mouse, with a tiny clickable scroll ball on top. The ball clogged easily, leaving users rolling it upside down on paper to bring it back to life.",
     "born": 2005,
     "died": 2009
   },
@@ -611,7 +611,7 @@
     "name": "iPhone 13 mini",
     "cat": "Hardware",
     "icon": "📱",
-    "desc": "The last iPhone with a small screen, beloved by a vocal minority and ignored by everyone else. Apple killed the mini line in 2023, ending a brief experiment in giving people what they said they wanted.",
+    "desc": "The last genuinely small modern iPhone, beloved by a vocal minority and ignored by enough buyers that Apple killed the mini line in 2023.",
     "born": 2021,
     "died": 2023
   },
@@ -619,7 +619,7 @@
     "name": "Apple Watch (Series 0)",
     "cat": "Hardware",
     "icon": "⌚",
-    "desc": "The original Apple Watch, launched in 2015 amid breathless hype as the future of wearables. Sluggish and short on battery, it was retroactively rebranded as 'Series 0' once Series 1 arrived 18 months later.",
+    "desc": "The original Apple Watch, launched in 2015 amid breathless hype as the future of wearables. Sluggish and short on battery, it was retroactively nicknamed 'Series 0' once Series 1 arrived.",
     "born": 2015,
     "died": 2016
   },
@@ -643,7 +643,7 @@
     "name": "Safari for Windows",
     "cat": "Software",
     "icon": "🧭",
-    "desc": "Apple's attempt to bring Safari to Windows, announced by Steve Jobs as part of his iPhone web strategy. Plagued by security holes and strange font rendering, it was quietly abandoned in 2012 with vulnerabilities still unpatched.",
+    "desc": "Apple's attempt to bring Safari to Windows, announced by Steve Jobs as part of his iPhone web strategy. It was quietly abandoned after Safari 5.1.7 in 2012, while Mac Safari continued on.",
     "born": 2007,
     "died": 2012
   },
@@ -659,7 +659,7 @@
     "name": "OpenDoc",
     "cat": "Software",
     "icon": "📑",
-    "desc": "Apple's ambitious component-based document framework, designed to replace monolithic apps with modular parts. Steve Jobs killed it within months of returning to Apple in 1997, calling it overengineered and a distraction from shipping a real OS.",
+    "desc": "Apple's ambitious component-based document framework, designed to replace monolithic apps with modular parts. Steve Jobs killed it soon after returning to Apple in 1997, calling it a distraction.",
     "born": 1992,
     "died": 1997
   },
@@ -691,15 +691,15 @@
     "name": "FireWire",
     "cat": "Feature",
     "icon": "🔥",
-    "desc": "Apple's high-speed serial bus, co-developed with Sony and TI for digital video and audio professionals. Faster than USB at launch, beaten by cheaper USB at every revision, and removed from the last MacBook Pro in 2012.",
+    "desc": "Apple's high-speed serial bus for digital video and audio professionals. Faster than USB at launch, eventually beaten by cheaper USB and Thunderbolt, and gone from the last Mac with built-in FireWire by 2016.",
     "born": 1999,
-    "died": 2012
+    "died": 2016
   },
   {
     "name": "MagSafe (laptop)",
     "cat": "Feature",
     "icon": "🧲",
-    "desc": "The magnetic power connector that detached harmlessly when someone tripped over the cable, saving countless MacBooks from broken ports. Removed in 2016 for USB-C, then quietly restored five years later when Apple admitted USB-C was not actually better.",
+    "desc": "The magnetic power connector that detached harmlessly when someone tripped over the cable, saving countless MacBooks from broken ports. Removed in 2016 for USB-C, then restored on MacBook Pro five years later.",
     "born": 2006,
     "died": 2016
   }
