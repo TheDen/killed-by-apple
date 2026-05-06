@@ -337,6 +337,16 @@
     "desc": "Apple's widescreen external monitors, beloved by designers and video editors. The Cinema Display line was replaced by the Thunderbolt Display in 2011.",
     "born": 1999,
     "died": 2011,
+    "refs": [
+      {
+        "label": "Cinema Display line update",
+        "url": "https://www.apple.com/newsroom/2003/01/28Apple-Introduces-20-Cinema-Display-at-Breakthrough-Price/"
+      },
+      {
+        "label": "Thunderbolt Display replacement",
+        "url": "https://www.apple.com/newsroom/2011/07/20Apple-Introduces-Worlds-First-Thunderbolt-Display/"
+      }
+    ],
     "cats": ["Hardware"]
   },
   {
@@ -565,6 +575,12 @@
     "desc": "Apple's mobile advertising platform. Steve Jobs said it would \"reinvent\" mobile advertising. It never seriously challenged Google, and Apple shut the network down after six quiet years.",
     "born": 2010,
     "died": 2016,
+    "refs": [
+      {
+        "label": "Apple Developer discontinuation notice",
+        "url": "https://developer.apple.com/news/?id=01152016a"
+      }
+    ],
     "cats": ["Service"]
   },
   {
@@ -893,6 +909,16 @@
     "desc": "The paid successor to iTools: @mac.com email, iDisk cloud storage, and online sync for $99/year. Frequently unreliable. Rebranded as the even more unreliable MobileMe.",
     "born": 2002,
     "died": 2008,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/uk/newsroom/2002/07/17Apple-Launches-Mac/"
+      },
+      {
+        "label": "MobileMe replacement",
+        "url": "https://www.apple.com/newsroom/2008/06/09Apple-Introduces-MobileMe-Internet-Service/"
+      }
+    ],
     "cats": ["Service"]
   },
   {
@@ -1031,6 +1057,16 @@
     "desc": "A dedicated iOS app folder for digital magazine and newspaper subscriptions. Publishers barely supported it; readers rarely opened it. Removed in iOS 9 and absorbed into Apple News.",
     "born": 2011,
     "died": 2015,
+    "refs": [
+      {
+        "label": "iOS 5 launch",
+        "url": "https://www.apple.com/newsroom/2011/10/04Apple-to-Launch-iCloud-on-October-12/"
+      },
+      {
+        "label": "iOS 9 News app transition",
+        "url": "https://www.apple.com/ca/newsroom/2015/06/08Apple-Previews-iOS-9/"
+      }
+    ],
     "cats": ["Software", "Feature"]
   },
   {
@@ -1251,6 +1287,16 @@
     "desc": "The round USB mouse that shipped with the original iMac G3. Impossible to orient by feel and hated by every reviewer who touched it. Replaced within two years by the Apple Pro Mouse and remembered as a cautionary tale in industrial design.",
     "born": 1998,
     "died": 2000,
+    "refs": [
+      {
+        "label": "iMac launch",
+        "url": "https://www.apple.com/ca/fr/press/1998/05/iMac.html"
+      },
+      {
+        "label": "Apple Pro Mouse replacement",
+        "url": "https://www.apple.com/newsroom/2000/07/19Apple-Unveils-Optical-Mouse-and-New-Pro-Keyboard/"
+      }
+    ],
     "cats": ["Hardware"]
   },
   {
@@ -1417,6 +1463,16 @@
     "desc": "The system search tool in Mac OS that hunted across local files, the web, and online databases. Replaced by Spotlight in 2005 and remembered as the origin of 'sherlocked', the verb for when Apple kills a third-party app by building its features in.",
     "born": 1998,
     "died": 2005,
+    "refs": [
+      {
+        "label": "Mac OS 9 era reference",
+        "url": "https://www.apple.com/la/newsroom/1999/10/05Apple-Announces-Mac-OS-9/"
+      },
+      {
+        "label": "Spotlight replacement",
+        "url": "https://www.apple.com/newsroom/2004/06/28Apple-Previews-Mac-OS-X-Tiger/"
+      }
+    ],
     "cats": ["Software"]
   },
   {
@@ -1425,6 +1481,16 @@
     "desc": "Apple's instant messaging client, supporting AIM, Jabber, and Bonjour. The colorful chat bubbles became iconic before iChat was rebranded as Messages and folded into iMessage in OS X Mountain Lion.",
     "born": 2002,
     "died": 2012,
+    "refs": [
+      {
+        "label": "Jaguar introduction",
+        "url": "https://www.apple.com/newsroom/2002/07/17Apple-Introduces-Jaguar-the-Next-Major-Release-of-Mac-OS-X/"
+      },
+      {
+        "label": "Messages replacement",
+        "url": "https://www.apple.com/newsroom/2012/07/25Mountain-Lion-Available-Today-From-the-Mac-App-Store/"
+      }
+    ],
     "cats": ["Software"]
   },
   {
@@ -1433,6 +1499,16 @@
     "desc": "Apple's attempt to bring Safari to Windows, announced by Steve Jobs as part of his iPhone web strategy. It was quietly abandoned after Safari 5.1.7 in 2012, while Mac Safari continued on.",
     "born": 2007,
     "died": 2012,
+    "refs": [
+      {
+        "label": "Windows launch era",
+        "url": "https://www.apple.com/newsroom/2009/02/24Apple-Announces-Safari-4-The-Worlds-Fastest-Most-Innovative-Browser/"
+      },
+      {
+        "label": "Apple support note",
+        "url": "https://support.apple.com/en-ke/102665"
+      }
+    ],
     "cats": ["Software"]
   },
   {
@@ -1441,6 +1517,12 @@
     "desc": "The final version of the classic Mac OS, foundation of Apple computing for 18 years. Steve Jobs literally held a funeral for it on stage at WWDC 2002, complete with eulogy, organ music, and an open coffin.",
     "born": 1999,
     "died": 2002,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/la/newsroom/1999/10/05Apple-Announces-Mac-OS-9/"
+      }
+    ],
     "cats": ["Software"]
   },
   {
@@ -1473,6 +1555,12 @@
     "desc": "Apple's free photo sync service that automatically pushed the last 1,000 photos to all your Apple devices for 30 days. Replaced by iCloud Photos and finally shut down in 2023 after running quietly in the background for 12 years.",
     "born": 2011,
     "died": 2023,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2011/10/04Apple-to-Launch-iCloud-on-October-12/"
+      }
+    ],
     "cats": ["Service", "Feature"]
   },
   {
@@ -1489,6 +1577,16 @@
     "desc": "The magnetic power connector that detached harmlessly when someone tripped over the cable, saving countless MacBooks from broken ports. Removed in 2016 for USB-C, then restored on MacBook Pro five years later.",
     "born": 2006,
     "died": 2016,
+    "refs": [
+      {
+        "label": "MacBook Pro introduction",
+        "url": "https://www.apple.com/newsroom/2006/01/10Apple-Introduces-MacBook-Pro/"
+      },
+      {
+        "label": "USB-C MacBook Pro transition",
+        "url": "https://www.apple.com/newsroom/2016/10/apple-unveils-groundbreaking-new-macbook-pro/"
+      }
+    ],
     "cats": ["Feature", "Hardware"]
   },
   {
@@ -1545,6 +1643,16 @@
     "desc": "Apple's Mac app for creating interactive ebooks and textbooks. It once looked like the future of digital publishing, then Apple folded its core features into Pages and pulled the app for new users.",
     "born": 2012,
     "died": 2020,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2012/01/19Apple-Reinvents-Textbooks-with-iBooks-2-for-iPad/"
+      },
+      {
+        "label": "Pages transition support",
+        "url": "https://support.apple.com/en-euro/102091"
+      }
+    ],
     "cats": ["Software"]
   },
   {
@@ -1615,6 +1723,12 @@
     "desc": "A remote access feature that used iCloud to find and connect to your Macs over the internet. Magical when it worked, mysterious when it didn't, and gone from all macOS versions in 2019.",
     "born": 2007,
     "died": 2019,
+    "refs": [
+      {
+        "label": "Leopard introduction",
+        "url": "https://www.apple.com/newsroom/2007/06/11Apple-Unveils-Near-Final-Mac-OS-X-Leopard/"
+      }
+    ],
     "cats": ["Feature", "Service"]
   },
   {
@@ -1711,6 +1825,16 @@
     "desc": "Apple's professional audio editing and sound design app for video editors. Bundled with Final Cut Studio, then killed when Apple collapsed the old pro video suite.",
     "born": 2005,
     "died": 2011,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2005/04/17Apple-Introduces-Soundtrack-Pro/"
+      },
+      {
+        "label": "Final Cut Pro X transition",
+        "url": "https://www.apple.com/newsroom/2011/06/21Apple-Revolutionizes-Video-Editing-With-Final-Cut-Pro-X/"
+      }
+    ],
     "cats": ["Software"]
   },
   {
@@ -1719,6 +1843,16 @@
     "desc": "High-end DVD authoring software for creating professional menus, masters, and replicated discs. Essential in the DVD era, stranded when Apple decided optical media was over.",
     "born": 2001,
     "died": 2011,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2001/01/09Apple-Brings-DVD-Authoring-to-the-Desktop-with-iDVD-and-DVD-Studio-Pro/"
+      },
+      {
+        "label": "Final Cut Pro X transition",
+        "url": "https://www.apple.com/newsroom/2011/06/21Apple-Revolutionizes-Video-Editing-With-Final-Cut-Pro-X/"
+      }
+    ],
     "cats": ["Software"]
   },
   {
@@ -1727,6 +1861,16 @@
     "desc": "A professional color-grading app born from Apple's acquisition of Silicon Color. It brought serious finishing tools to Final Cut Studio, then disappeared in the Final Cut Pro X transition.",
     "born": 2007,
     "died": 2011,
+    "refs": [
+      {
+        "label": "Apple introduction",
+        "url": "https://www.apple.com/newsroom/2007/04/15Apple-Unveils-Final-Cut-Studio-2/"
+      },
+      {
+        "label": "Final Cut Pro X transition",
+        "url": "https://www.apple.com/newsroom/2011/06/21Apple-Revolutionizes-Video-Editing-With-Final-Cut-Pro-X/"
+      }
+    ],
     "cats": ["Software"]
   },
   {
