@@ -23,6 +23,11 @@ Add, remove, or update entries in `products.json`. Each item uses this shape:
 }
 ```
 
-Use `cats` for one or more categories. For example, Mac hardware should usually include both `"Mac"` and `"Hardware"`.
+Use `cats` for one or more categories. Examples:
+
+- Mac hardware should usually include both `"Mac"` and `"Hardware"`.
+- Cloud-backed capabilities can span `"Service"` and `"Feature"`.
+- Standalone apps that were really fronts for online systems can span `"Software"` and `"Service"`.
+- Physical interfaces and built-in hardware capabilities can span `"Feature"` and `"Hardware"`.
 
 `refs` is optional. Use it for launch announcements, support notes, replacement announcements, or other source material for why the product ended.

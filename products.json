@@ -355,7 +355,8 @@
       }
     ],
     "cats": [
-      "Software"
+      "Software",
+      "Feature"
     ]
   },
   {
@@ -423,7 +424,8 @@
       }
     ],
     "cats": [
-      "Feature"
+      "Feature",
+      "Software"
     ]
   },
   {
@@ -578,7 +580,8 @@
       }
     ],
     "cats": [
-      "Feature"
+      "Feature",
+      "Hardware"
     ]
   },
   {
@@ -815,7 +818,8 @@
       }
     ],
     "cats": [
-      "Service"
+      "Service",
+      "Software"
     ]
   },
   {
@@ -1003,7 +1007,8 @@
       }
     ],
     "cats": [
-      "Feature"
+      "Feature",
+      "Hardware"
     ]
   },
   {
@@ -1035,7 +1040,8 @@
       }
     ],
     "cats": [
-      "Software"
+      "Software",
+      "Service"
     ]
   },
   {
@@ -1077,7 +1083,8 @@
     "born": 2011,
     "died": 2015,
     "cats": [
-      "Software"
+      "Software",
+      "Feature"
     ]
   },
   {
@@ -1093,7 +1100,8 @@
       }
     ],
     "cats": [
-      "Feature"
+      "Feature",
+      "Hardware"
     ]
   },
   {
@@ -1136,7 +1144,8 @@
       }
     ],
     "cats": [
-      "Software"
+      "Software",
+      "Feature"
     ]
   },
   {
@@ -1162,7 +1171,8 @@
       }
     ],
     "cats": [
-      "Feature"
+      "Feature",
+      "Hardware"
     ]
   },
   {
@@ -1178,7 +1188,8 @@
       }
     ],
     "cats": [
-      "Feature"
+      "Feature",
+      "Hardware"
     ]
   },
   {
@@ -1469,7 +1480,8 @@
     "born": 1985,
     "died": 2009,
     "cats": [
-      "Feature"
+      "Feature",
+      "Software"
     ]
   },
   {
@@ -1489,7 +1501,8 @@
     "born": 2011,
     "died": 2023,
     "cats": [
-      "Service"
+      "Service",
+      "Feature"
     ]
   },
   {
@@ -1499,7 +1512,8 @@
     "born": 1999,
     "died": 2016,
     "cats": [
-      "Feature"
+      "Feature",
+      "Hardware"
     ]
   },
   {
@@ -1509,7 +1523,8 @@
     "born": 2006,
     "died": 2016,
     "cats": [
-      "Feature"
+      "Feature",
+      "Hardware"
     ]
   },
   {
@@ -1549,7 +1564,8 @@
     "born": 2001,
     "died": 2007,
     "cats": [
-      "Feature"
+      "Feature",
+      "Software"
     ]
   },
   {
@@ -1569,7 +1585,8 @@
     "born": 2011,
     "died": 2013,
     "cats": [
-      "Software"
+      "Software",
+      "Service"
     ]
   },
   {
@@ -1629,7 +1646,8 @@
       }
     ],
     "cats": [
-      "Feature"
+      "Feature",
+      "Service"
     ]
   },
   {
@@ -1649,7 +1667,8 @@
       }
     ],
     "cats": [
-      "Service"
+      "Service",
+      "Feature"
     ]
   },
   {
@@ -1659,7 +1678,8 @@
     "born": 2007,
     "died": 2019,
     "cats": [
-      "Feature"
+      "Feature",
+      "Service"
     ]
   },
   {
@@ -1679,7 +1699,8 @@
       }
     ],
     "cats": [
-      "Feature"
+      "Feature",
+      "Hardware"
     ]
   },
   {
@@ -1695,7 +1716,8 @@
       }
     ],
     "cats": [
-      "Service"
+      "Service",
+      "Software"
     ]
   },
   {
@@ -1745,7 +1767,8 @@
       }
     ],
     "cats": [
-      "Software"
+      "Software",
+      "Service"
     ]
   },
   {
