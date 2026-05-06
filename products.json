@@ -1,0 +1,354 @@
+[
+  {
+    "name": "Apple III",
+    "cat": "Mac",
+    "icon": "🖥️",
+    "desc": "Apple's business computer, plagued from launch by overheating. Engineers removed the fan to make it silent — so chips warped and chips fell off the board.",
+    "born": 1980,
+    "died": 1984
+  },
+  {
+    "name": "Apple Lisa",
+    "cat": "Mac",
+    "icon": "🖥️",
+    "desc": "Apple's first GUI-based personal computer at $9,995. Technically remarkable, commercially ruinous. Outclassed and outpriced by the Mac a year later.",
+    "born": 1983,
+    "died": 1985
+  },
+  {
+    "name": "Apple QuickTake",
+    "cat": "Hardware",
+    "icon": "📷",
+    "desc": "One of the first consumer digital cameras, made by Fujifilm and sold under Apple's name. Steve Jobs killed the entire product line within weeks of returning to Apple.",
+    "born": 1994,
+    "died": 1997
+  },
+  {
+    "name": "Pippin",
+    "cat": "Hardware",
+    "icon": "🕹️",
+    "desc": "Apple's multimedia gaming platform co-developed with Bandai. It sold just 42,000 units and cost nearly $600 at launch. An ambitious experiment in all the wrong directions.",
+    "born": 1996,
+    "died": 1997
+  },
+  {
+    "name": "Newton MessagePad",
+    "cat": "Hardware",
+    "icon": "📟",
+    "desc": "Apple's pioneering PDA, famous for ambitious handwriting recognition that became a punchline. Steve Jobs canceled it two weeks after taking back the CEO seat.",
+    "born": 1993,
+    "died": 1998
+  },
+  {
+    "name": "Power Mac G4 Cube",
+    "cat": "Mac",
+    "icon": "📦",
+    "desc": "A fanless, silent 8-inch cube of a Mac — a design triumph. But at $1,799 for a machine slower than the Power Mac G4 tower, it was a commercial failure.",
+    "born": 2000,
+    "died": 2001
+  },
+  {
+    "name": "iTools",
+    "cat": "Service",
+    "icon": "🌐",
+    "desc": "Apple's first internet services bundle, offering a free @mac.com email address and iDisk cloud storage. Replaced by the paid .Mac subscription service.",
+    "born": 2000,
+    "died": 2002
+  },
+  {
+    "name": "HyperCard",
+    "cat": "Software",
+    "icon": "🗂️",
+    "desc": "A revolutionary hypermedia and scripting environment that predated and inspired the World Wide Web. Quietly abandoned, then left to wither for a decade before being killed entirely.",
+    "born": 1987,
+    "died": 2004
+  },
+  {
+    "name": "iPod mini",
+    "cat": "Hardware",
+    "icon": "🎵",
+    "desc": "The colorful, compact iPod that made music fashionable. It became Apple's best-selling product — then was discontinued to make way for the even thinner iPod nano.",
+    "born": 2004,
+    "died": 2005
+  },
+  {
+    "name": "Shake",
+    "cat": "Software",
+    "icon": "🎬",
+    "desc": "Professional VFX compositing software used in countless Hollywood films. Apple acquired it, charged for it, then killed it in 2009 without offering any replacement.",
+    "born": 2002,
+    "died": 2009
+  },
+  {
+    "name": "Apple Cinema Display",
+    "cat": "Hardware",
+    "icon": "🖥️",
+    "desc": "Apple's aluminum widescreen monitors, beloved by designers and video editors. Quietly discontinued in 2011, leaving professionals without an Apple display option.",
+    "born": 1999,
+    "died": 2011
+  },
+  {
+    "name": "Final Cut Server",
+    "cat": "Software",
+    "icon": "🎬",
+    "desc": "A collaborative media asset management system for Final Cut Pro workflows in studios and broadcast. Discontinued alongside the controversial Final Cut Pro X launch.",
+    "born": 2009,
+    "died": 2011
+  },
+  {
+    "name": "Front Row",
+    "cat": "Software",
+    "icon": "📺",
+    "desc": "A full-screen media center app for Macs, designed to be controlled from the couch with the Apple Remote. Killed in OS X Lion without a replacement.",
+    "born": 2005,
+    "died": 2011
+  },
+  {
+    "name": "iDVD",
+    "cat": "Software",
+    "icon": "💿",
+    "desc": "DVD menu and disc authoring software bundled with every Mac. Made beautiful animated menus — until optical drives quietly disappeared from Apple hardware forever.",
+    "born": 2001,
+    "died": 2011
+  },
+  {
+    "name": "iWeb",
+    "cat": "Software",
+    "icon": "🌐",
+    "desc": "Drag-and-drop personal website creator, tightly integrated with MobileMe hosting. When MobileMe shut down, iWeb had nowhere to publish — so it died too.",
+    "born": 2006,
+    "died": 2011
+  },
+  {
+    "name": "Logic Express",
+    "cat": "Software",
+    "icon": "🎛️",
+    "desc": "The affordable entry point to professional music production on Mac. Killed when Apple slashed Logic Pro 9's price to $199, eliminating the need for a budget tier.",
+    "born": 2004,
+    "died": 2011
+  },
+  {
+    "name": "Rosetta",
+    "cat": "Software",
+    "icon": "⚙️",
+    "desc": "The translation layer that let PowerPC apps run on Intel Macs — enabling Apple's first major chip transition without breaking software. Removed in OS X Lion.",
+    "born": 2006,
+    "died": 2011
+  },
+  {
+    "name": "Xserve",
+    "cat": "Hardware",
+    "icon": "🖥️",
+    "desc": "Apple's rack-mounted 1U server hardware — one of Apple's few genuine enterprise products. Quietly discontinued in favor of telling enterprises to buy a Mac Pro.",
+    "born": 2002,
+    "died": 2011
+  },
+  {
+    "name": "iTunes Ping",
+    "cat": "Service",
+    "icon": "🎵",
+    "desc": "Apple's music-focused social network. Steve Jobs personally called Mark Zuckerberg to negotiate a Facebook tie-in. Zuckerberg asked for too much; Ping launched anyway and flopped.",
+    "born": 2010,
+    "died": 2012
+  },
+  {
+    "name": "MobileMe",
+    "cat": "Service",
+    "icon": "☁️",
+    "desc": "Apple's cloud sync and email service. So unreliable at launch that Steve Jobs called it an embarrassment to the entire company at an internal meeting. Replaced by iCloud.",
+    "born": 2008,
+    "died": 2012
+  },
+  {
+    "name": "Aperture",
+    "cat": "Software",
+    "icon": "📷",
+    "desc": "Apple's professional photo management and RAW editing suite — Lightroom's closest rival for years. Killed and replaced by Photos, which couldn't do a fraction of what it did.",
+    "born": 2005,
+    "died": 2014
+  },
+  {
+    "name": "iPod classic",
+    "cat": "Hardware",
+    "icon": "🎵",
+    "desc": "The original click-wheel iPod that started everything. Discontinued after 13 years not by choice, but because a key internal component was no longer manufactured anywhere.",
+    "born": 2001,
+    "died": 2014
+  },
+  {
+    "name": "Beats Music",
+    "cat": "Service",
+    "icon": "🎧",
+    "desc": "Dr. Dre's streaming service, praised for human-curated playlists. Apple acquired Beats for $3 billion and shut down Beats Music within months to build Apple Music.",
+    "born": 2014,
+    "died": 2015
+  },
+  {
+    "name": "iPhoto",
+    "cat": "Software",
+    "icon": "🖼️",
+    "desc": "The photo management app bundled with every Mac for over 13 years. Replaced by Photos — a simpler, more iCloud-centric app that lost many of iPhoto's organizing features.",
+    "born": 2002,
+    "died": 2015
+  },
+  {
+    "name": "iAd",
+    "cat": "Service",
+    "icon": "📱",
+    "desc": "Apple's mobile advertising platform. Steve Jobs claimed it would \"reinvent\" advertising. It never seriously challenged Google. Shut down after six increasingly quiet years.",
+    "born": 2010,
+    "died": 2016
+  },
+  {
+    "name": "iPhone Headphone Jack",
+    "cat": "Feature",
+    "icon": "🎧",
+    "desc": "The 3.5mm audio port was present on every iPhone for 9 years. Apple called its removal \"courageous\" in 2016 and included a Lightning adapter in the box. The box no longer ships.",
+    "born": 2007,
+    "died": 2016
+  },
+  {
+    "name": "QuickTime for Windows",
+    "cat": "Software",
+    "icon": "▶️",
+    "desc": "Apple's media player for Windows, kept alive for over 20 years. Killed in 2016 with critical security vulnerabilities still unpatched. Users were advised to uninstall immediately.",
+    "born": 1994,
+    "died": 2016
+  },
+  {
+    "name": "Thunderbolt Display",
+    "cat": "Hardware",
+    "icon": "🖥️",
+    "desc": "Apple's last standalone external monitor before the Pro Display XDR. Discontinued in 2016 without a replacement, leaving professional Mac users without an Apple display for three full years.",
+    "born": 2011,
+    "died": 2016
+  },
+  {
+    "name": "32-bit iOS App Support",
+    "cat": "Feature",
+    "icon": "📱",
+    "desc": "iOS 11 dropped support for 32-bit apps, rendering thousands of games and apps permanently unplayable. Many developers had already moved on; many players hadn't.",
+    "born": 2007,
+    "died": 2017
+  },
+  {
+    "name": "iPod nano",
+    "cat": "Hardware",
+    "icon": "🎵",
+    "desc": "The ultra-thin, colorful iPod that evolved through seven generations and countless designs. A design icon of the 2000s and 2010s, killed alongside its sibling with no ceremony.",
+    "born": 2005,
+    "died": 2017
+  },
+  {
+    "name": "iPod shuffle",
+    "cat": "Hardware",
+    "icon": "🎵",
+    "desc": "The tiny clip-on music player with no screen — just shuffle. Simple, cheap, and genuinely fun. The only music player you could wear like a badge.",
+    "born": 2005,
+    "died": 2017
+  },
+  {
+    "name": "AirPort Express",
+    "cat": "Hardware",
+    "icon": "📡",
+    "desc": "Apple's compact Wi-Fi router that doubled as a wired AirPlay audio receiver — beloved by audiophiles who wanted wireless hi-fi without the hassle. Gone with the rest of the AirPort line.",
+    "born": 2004,
+    "died": 2018
+  },
+  {
+    "name": "AirPort Extreme",
+    "cat": "Hardware",
+    "icon": "📡",
+    "desc": "Apple's flagship home Wi-Fi router with its striking cylindrical tower design and seamless Time Machine integration. Discontinued as Apple exited the router business entirely.",
+    "born": 2003,
+    "died": 2018
+  },
+  {
+    "name": "Time Capsule",
+    "cat": "Hardware",
+    "icon": "💾",
+    "desc": "A Wi-Fi router with a built-in hard drive for automatic, wireless Time Machine backups. An elegant hardware solution to an everyday problem — killed alongside the AirPort line.",
+    "born": 2008,
+    "died": 2018
+  },
+  {
+    "name": "iTunes",
+    "cat": "Software",
+    "icon": "🎵",
+    "desc": "The app that defined the digital music era, powered the iPod revolution, and built the App Store. After 18 years of bloat, replaced by Music, Podcasts, and TV apps in macOS Catalina.",
+    "born": 2001,
+    "died": 2019
+  },
+  {
+    "name": "MacBook (12-inch)",
+    "cat": "Mac",
+    "icon": "💻",
+    "desc": "Apple's thinnest, lightest laptop — a single USB-C port, fanless design, and a beautiful Retina display. Too compromised for most buyers; too underpowered to justify its price.",
+    "born": 2015,
+    "died": 2019
+  },
+  {
+    "name": "32-bit macOS App Support",
+    "cat": "Feature",
+    "icon": "💻",
+    "desc": "macOS Catalina dropped 32-bit app support entirely, breaking thousands of games and legacy applications with no migration path and no warning beyond a single OS version.",
+    "born": 1999,
+    "died": 2019
+  },
+  {
+    "name": "Texture",
+    "cat": "Service",
+    "icon": "📰",
+    "desc": "A magazine subscription app dubbed \"the Netflix of magazines.\" Apple acquired it in 2018 and quietly folded it into Apple News+ — without keeping all of its content agreements.",
+    "born": 2012,
+    "died": 2019
+  },
+  {
+    "name": "Apple Remote",
+    "cat": "Hardware",
+    "icon": "🎮",
+    "desc": "The minimalist aluminum infrared remote, designed for controlling Macs and Apple TV from across the room. Quietly discontinued in 2021 as the Siri Remote took its place.",
+    "born": 2005,
+    "died": 2021
+  },
+  {
+    "name": "iTunes U",
+    "cat": "Service",
+    "icon": "🎓",
+    "desc": "Platform for universities, schools, and educators to share lectures and course materials through iTunes. Quietly shut down and partially absorbed into Apple Podcasts.",
+    "born": 2007,
+    "died": 2021
+  },
+  {
+    "name": "iPod touch",
+    "cat": "Hardware",
+    "icon": "🎵",
+    "desc": "The last surviving iPod — an iPhone without the cellular contract. Beloved by kids, travelers, and budget-conscious music fans for 15 years. The end of an era.",
+    "born": 2007,
+    "died": 2022
+  },
+  {
+    "name": "macOS Server",
+    "cat": "Software",
+    "icon": "🖥️",
+    "desc": "Apple's server OS, once a serious enterprise product with directory services, file sharing, and device management. Wound down over years until it became just a few GUI wrappers.",
+    "born": 1999,
+    "died": 2022
+  },
+  {
+    "name": "HomePod (1st gen)",
+    "cat": "Hardware",
+    "icon": "🔊",
+    "desc": "Apple's premium smart speaker with genuinely excellent audio quality. Discontinued to consolidate around the HomePod mini. Sales never justified its $349 price tag.",
+    "born": 2018,
+    "died": 2023
+  },
+  {
+    "name": "iPhone SE (3rd gen)",
+    "cat": "Hardware",
+    "icon": "📱",
+    "desc": "Apple's last affordable iPhone — and the last iPhone with a Home button and Touch ID. Quietly discontinued as Apple consolidated its lineup around Face ID.",
+    "born": 2022,
+    "died": 2024
+  }
+]

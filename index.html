@@ -1,0 +1,434 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Killed by Apple</title>
+  <meta name="description" content="A graveyard of products, services, and features discontinued by Apple.">
+  <style>
+    :root {
+      --bg: #080808;
+      --card-bg: #111111;
+      --card-border: #222222;
+      --text: #e8e8e8;
+      --muted: #777;
+      --red: #ff3b30;
+      --green: #30d158;
+      --font: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Helvetica Neue", Arial, sans-serif;
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg);
+      color: var(--text);
+      font-family: var(--font);
+      min-height: 100vh;
+      -webkit-font-smoothing: antialiased;
+    }
+
+    /* ── Header ── */
+    header {
+      text-align: center;
+      padding: 90px 24px 72px;
+      position: relative;
+      overflow: hidden;
+      background: radial-gradient(ellipse 80% 60% at 50% 0%, #1a0000 0%, var(--bg) 70%);
+    }
+
+    /* stars */
+    header::before {
+      content: '';
+      position: absolute;
+      inset: 0;
+      background-image:
+        radial-gradient(1px 1px at 10% 20%, #fff4 0%, transparent 100%),
+        radial-gradient(1px 1px at 25% 10%, #fff3 0%, transparent 100%),
+        radial-gradient(1px 1px at 40% 30%, #fff5 0%, transparent 100%),
+        radial-gradient(1px 1px at 55% 15%, #fff3 0%, transparent 100%),
+        radial-gradient(1px 1px at 70% 25%, #fff4 0%, transparent 100%),
+        radial-gradient(1px 1px at 85% 8%,  #fff3 0%, transparent 100%),
+        radial-gradient(1px 1px at 15% 55%, #fff2 0%, transparent 100%),
+        radial-gradient(1px 1px at 80% 50%, #fff2 0%, transparent 100%),
+        radial-gradient(1px 1px at 92% 35%, #fff3 0%, transparent 100%),
+        radial-gradient(1px 1px at 5%  40%, #fff2 0%, transparent 100%);
+      pointer-events: none;
+    }
+
+    .apple-mark {
+      display: inline-block;
+      font-size: 72px;
+      margin-bottom: 24px;
+      filter: grayscale(1) brightness(0.35) sepia(1) hue-rotate(300deg) saturate(4) brightness(0.6);
+      animation: deadlight 6s ease-in-out infinite;
+      user-select: none;
+    }
+
+    @keyframes deadlight {
+      0%, 90%, 100% { opacity: 0.5; }
+      92% { opacity: 0.8; }
+      94% { opacity: 0.3; }
+      96% { opacity: 0.7; }
+    }
+
+    h1 {
+      font-size: clamp(42px, 9vw, 88px);
+      font-weight: 800;
+      letter-spacing: -3px;
+      line-height: 1;
+      background: linear-gradient(160deg, #ffffff 0%, #555 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      background-clip: text;
+      margin-bottom: 18px;
+    }
+
+    .tagline {
+      font-size: clamp(15px, 2.2vw, 19px);
+      color: var(--muted);
+      max-width: 540px;
+      margin: 0 auto 36px;
+      line-height: 1.6;
+      font-weight: 400;
+    }
+
+    .pill {
+      display: inline-flex;
+      align-items: center;
+      gap: 8px;
+      background: rgba(255,59,48,0.08);
+      border: 1px solid rgba(255,59,48,0.25);
+      border-radius: 100px;
+      padding: 9px 22px;
+      font-size: 13px;
+      font-weight: 600;
+      color: var(--red);
+      letter-spacing: 0.3px;
+    }
+
+    /* ── Controls ── */
+    .controls {
+      max-width: 1180px;
+      margin: 0 auto;
+      padding: 36px 24px 0;
+      display: flex;
+      gap: 10px;
+      flex-wrap: wrap;
+      align-items: center;
+    }
+
+    .search-wrap {
+      flex: 1;
+      min-width: 200px;
+      position: relative;
+    }
+
+    .search-wrap svg {
+      position: absolute;
+      left: 13px;
+      top: 50%;
+      transform: translateY(-50%);
+      pointer-events: none;
+    }
+
+    input[type="search"] {
+      width: 100%;
+      padding: 11px 14px 11px 40px;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 11px;
+      color: var(--text);
+      font-size: 14px;
+      font-family: var(--font);
+      outline: none;
+      transition: border-color .15s;
+    }
+
+    input[type="search"]:focus { border-color: #444; }
+    input[type="search"]::placeholder { color: #444; }
+
+    select {
+      padding: 11px 36px 11px 14px;
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 11px;
+      color: var(--text);
+      font-size: 13px;
+      font-family: var(--font);
+      outline: none;
+      cursor: pointer;
+      appearance: none;
+      background-image: url("data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='11' height='7' viewBox='0 0 11 7'%3E%3Cpath d='M1 1l4.5 4.5L10 1' stroke='%23555' stroke-width='1.5' fill='none' stroke-linecap='round' stroke-linejoin='round'/%3E%3C/svg%3E");
+      background-repeat: no-repeat;
+      background-position: right 12px center;
+    }
+
+    /* ── Grid ── */
+    .grid {
+      max-width: 1180px;
+      margin: 32px auto 0;
+      padding: 0 24px 100px;
+      display: grid;
+      grid-template-columns: repeat(auto-fill, minmax(310px, 1fr));
+      gap: 18px;
+    }
+
+    /* ── Card ── */
+    .card {
+      background: var(--card-bg);
+      border: 1px solid var(--card-border);
+      border-radius: 16px;
+      padding: 26px 26px 22px;
+      position: relative;
+      overflow: hidden;
+      transition: transform .18s, border-color .18s, box-shadow .18s;
+    }
+
+    .card::after {
+      content: '';
+      position: absolute;
+      top: 0; left: 20%; right: 20%;
+      height: 1px;
+      background: linear-gradient(90deg, transparent, rgba(255,59,48,.45), transparent);
+      opacity: 0;
+      transition: opacity .18s;
+    }
+
+    .card:hover {
+      transform: translateY(-3px);
+      border-color: #2e2e2e;
+      box-shadow: 0 12px 40px rgba(0,0,0,.5);
+    }
+
+    .card:hover::after { opacity: 1; }
+
+    .card-top {
+      display: flex;
+      align-items: flex-start;
+      gap: 14px;
+      margin-bottom: 14px;
+    }
+
+    .card-icon {
+      font-size: 26px;
+      line-height: 1;
+      flex-shrink: 0;
+      margin-top: 2px;
+    }
+
+    .card-name {
+      font-size: 17px;
+      font-weight: 700;
+      letter-spacing: -.3px;
+      line-height: 1.2;
+      margin-bottom: 5px;
+    }
+
+    .badge {
+      display: inline-block;
+      font-size: 10px;
+      font-weight: 600;
+      letter-spacing: .6px;
+      text-transform: uppercase;
+      color: var(--muted);
+      background: rgba(255,255,255,.05);
+      border-radius: 5px;
+      padding: 2px 7px;
+    }
+
+    .card-desc {
+      font-size: 13.5px;
+      line-height: 1.65;
+      color: #888;
+      margin-bottom: 20px;
+    }
+
+    .card-footer {
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      border-top: 1px solid var(--card-border);
+      padding-top: 14px;
+    }
+
+    .dates {
+      font-size: 13px;
+      display: flex;
+      align-items: center;
+      gap: 6px;
+    }
+
+    .born  { color: var(--green); font-weight: 600; }
+    .arrow { color: #333; }
+    .died  { color: var(--red);   font-weight: 600; }
+
+    .age {
+      font-size: 11.5px;
+      color: var(--muted);
+      background: rgba(255,255,255,.04);
+      border: 1px solid var(--card-border);
+      border-radius: 6px;
+      padding: 3px 9px;
+    }
+
+    /* ── Empty state ── */
+    .empty {
+      grid-column: 1 / -1;
+      text-align: center;
+      padding: 80px 0;
+      color: var(--muted);
+    }
+
+    .empty-icon { font-size: 52px; display: block; margin-bottom: 14px; }
+
+    /* ── Ground bar ── */
+    .ground {
+      height: 6px;
+      background: linear-gradient(90deg, #1a3a1a, #2a5a2a, #1a3a1a);
+      position: fixed;
+      bottom: 0;
+      width: 100%;
+      opacity: 0.6;
+    }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center;
+      padding: 32px 24px 52px;
+      border-top: 1px solid var(--card-border);
+      color: var(--muted);
+      font-size: 13px;
+      line-height: 1.8;
+    }
+
+    footer a { color: #555; text-decoration: none; }
+    footer a:hover { color: var(--text); }
+
+    @media (max-width: 580px) {
+      .controls { flex-direction: column; align-items: stretch; }
+      select { width: 100%; }
+    }
+  </style>
+</head>
+<body>
+
+<header>
+  <div class="apple-mark"></div>
+  <h1>Killed by Apple</h1>
+  <p class="tagline">A memorial for the products, services, and features Apple has loved — and left behind.</p>
+  <div class="pill">
+    <span>🪦</span>
+    <span id="count">Loading…</span>
+  </div>
+</header>
+
+<div class="controls">
+  <div class="search-wrap">
+    <svg width="15" height="15" viewBox="0 0 15 15" fill="none">
+      <circle cx="6.5" cy="6.5" r="5" stroke="#555" stroke-width="1.5"/>
+      <path d="M10.5 10.5L13.5 13.5" stroke="#555" stroke-width="1.5" stroke-linecap="round"/>
+    </svg>
+    <input type="search" id="search" placeholder="Search products and services…">
+  </div>
+  <select id="cat">
+    <option value="">All categories</option>
+    <option value="Hardware">Hardware</option>
+    <option value="Software">Software</option>
+    <option value="Service">Service</option>
+    <option value="Mac">Mac</option>
+    <option value="Feature">Feature</option>
+  </select>
+  <select id="sort">
+    <option value="died-desc">Newest deaths first</option>
+    <option value="died-asc">Oldest deaths first</option>
+    <option value="born-asc">Oldest products first</option>
+    <option value="az">A → Z</option>
+  </select>
+</div>
+
+<div class="grid" id="grid"></div>
+
+<footer>
+  <p>Not affiliated with Apple Inc. &nbsp;·&nbsp; Inspired by <a href="https://killedbygoogle.com" target="_blank" rel="noopener">Killed by Google</a></p>
+  <p>Know a killed product that's missing? <a href="https://github.com" target="_blank" rel="noopener">Submit it on GitHub.</a></p>
+</footer>
+
+<div class="ground"></div>
+
+<script>
+const grid    = document.getElementById('grid');
+const search  = document.getElementById('search');
+const catSel  = document.getElementById('cat');
+const sortSel = document.getElementById('sort');
+const count   = document.getElementById('count');
+
+let products = [];
+
+function age(born, died) {
+  const n = died - born;
+  if (n <= 0) return 'less than a year';
+  return n === 1 ? '1 year' : `${n} years`;
+}
+
+function render() {
+  const q    = search.value.toLowerCase().trim();
+  const cat  = catSel.value;
+  const sort = sortSel.value;
+
+  let list = products.filter(p => {
+    const hit = !q || p.name.toLowerCase().includes(q) || p.desc.toLowerCase().includes(q) || p.cat.toLowerCase().includes(q);
+    return hit && (!cat || p.cat === cat);
+  });
+
+  list.sort((a, b) => {
+    if (sort === 'died-desc') return b.died - a.died;
+    if (sort === 'died-asc')  return a.died - b.died;
+    if (sort === 'born-asc')  return a.born - b.born;
+    return a.name.localeCompare(b.name);
+  });
+
+  if (!list.length) {
+    grid.innerHTML = `<div class="empty"><span class="empty-icon">🪦</span><p>Nothing found. Maybe Apple already erased it from memory too.</p></div>`;
+    return;
+  }
+
+  grid.innerHTML = list.map(p => `
+    <div class="card">
+      <div class="card-top">
+        <span class="card-icon">${p.icon}</span>
+        <div>
+          <div class="card-name">${p.name}</div>
+          <span class="badge">${p.cat}</span>
+        </div>
+      </div>
+      <p class="card-desc">${p.desc}</p>
+      <div class="card-footer">
+        <div class="dates">
+          <span class="born">${p.born}</span>
+          <span class="arrow">→</span>
+          <span class="died">${p.died}</span>
+        </div>
+        <span class="age">Lived ${age(p.born, p.died)}</span>
+      </div>
+    </div>
+  `).join('');
+}
+
+search.addEventListener('input', render);
+catSel.addEventListener('change', render);
+sortSel.addEventListener('change', render);
+
+fetch('products.json')
+  .then(r => r.json())
+  .then(data => {
+    products = data;
+    count.textContent = `${products.length} products and services killed`;
+    render();
+  })
+  .catch(() => {
+    grid.innerHTML = `<div class="empty"><span class="empty-icon">🪦</span><p>Failed to load products.json.</p></div>`;
+    count.textContent = 'error loading data';
+  });
+</script>
+</body>
+</html>
