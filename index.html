@@ -312,6 +312,8 @@
     <option value="died-desc">Newest deaths first</option>
     <option value="died-asc">Oldest deaths first</option>
     <option value="born-asc">Oldest products first</option>
+    <option value="age-desc">Longest lived first</option>
+    <option value="age-asc">Shortest lived first</option>
     <option value="az">A → Z</option>
   </select>
 </div>
@@ -352,6 +354,8 @@ function render() {
     if (sort === 'died-desc') return b.died - a.died;
     if (sort === 'died-asc')  return a.died - b.died;
     if (sort === 'born-asc')  return a.born - b.born;
+    if (sort === 'age-desc')  return (b.died - b.born) - (a.died - a.born);
+    if (sort === 'age-asc')   return (a.died - a.born) - (b.died - b.born);
     return a.name.localeCompare(b.name);
   });
 
