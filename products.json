@@ -361,7 +361,17 @@
     "icon": "⚙️",
     "desc": "The translation layer that let PowerPC apps run on Intel Macs, enabling Apple's first major chip transition without breaking software. Removed in OS X Lion.",
     "born": 2006,
-    "died": 2011
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple Intel transition",
+        "url": "https://www.apple.com/newsroom/2006/01/10Apple-Unveils-New-iMac-with-Intel-Core-Duo-Processor/"
+      },
+      {
+        "label": "OS X Lion requirements",
+        "url": "https://support.apple.com/en-us/112027"
+      }
+    ]
   },
   {
     "name": "Xserve",
@@ -415,7 +425,17 @@
     "icon": "📷",
     "desc": "Apple's professional photo management and RAW editing suite, and Lightroom's closest rival for years. Killed in favor of Photos, which launched without many of Aperture's pro features.",
     "born": 2005,
-    "died": 2015
+    "died": 2015,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2005/10/19Apple-Introduces-Aperture/"
+      },
+      {
+        "label": "Photos replacement support",
+        "url": "https://support.apple.com/photos"
+      }
+    ]
   },
   {
     "name": "iPod classic",
@@ -455,7 +475,17 @@
     "icon": "🖼️",
     "desc": "The photo management app bundled with every Mac for over 13 years. Replaced by Photos, a simpler, more iCloud-centric app that lost many of iPhoto's organizing features.",
     "born": 2002,
-    "died": 2015
+    "died": 2015,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2002/01/07Apple-Introduces-iPhoto/"
+      },
+      {
+        "label": "Photos replacement support",
+        "url": "https://support.apple.com/photos"
+      }
+    ]
   },
   {
     "name": "iAd",
@@ -517,7 +547,13 @@
     "icon": "📱",
     "desc": "iOS 11 dropped support for 32-bit apps, rendering thousands of older games and apps permanently unplayable on updated devices. Many developers had already moved on; many users had not.",
     "born": 2007,
-    "died": 2017
+    "died": 2017,
+    "refs": [
+      {
+        "label": "Apple developer notice",
+        "url": "https://developer.apple.com/news/?id=06282017b"
+      }
+    ]
   },
   {
     "name": "iPod nano",
@@ -595,7 +631,13 @@
     "icon": "🎵",
     "desc": "The app that defined the digital music era, powered the iPod revolution, and built the App Store. After 18 years of bloat, replaced by Music, Podcasts, and TV apps in macOS Catalina.",
     "born": 2001,
-    "died": 2019
+    "died": 2019,
+    "refs": [
+      {
+        "label": "Catalina replacement",
+        "url": "https://www.apple.com/newsroom/2019/06/apple-previews-macos-catalina/"
+      }
+    ]
   },
   {
     "name": "MacBook (12-inch)",
@@ -617,7 +659,17 @@
     "icon": "💻",
     "desc": "macOS Catalina dropped 32-bit app support entirely, breaking thousands of games and legacy applications after one major release of prominent warnings.",
     "born": 2001,
-    "died": 2019
+    "died": 2019,
+    "refs": [
+      {
+        "label": "Catalina preview",
+        "url": "https://www.apple.com/newsroom/2019/06/apple-previews-macos-catalina/"
+      },
+      {
+        "label": "32-bit compatibility support",
+        "url": "https://support.apple.com/en-mide/103076"
+      }
+    ]
   },
   {
     "name": "Texture",
@@ -639,7 +691,17 @@
     "icon": "🎮",
     "desc": "Apple's minimalist infrared remote for Macs, iPod docks, and early Apple TVs, first in white plastic and later in aluminum. It faded out as Siri Remote and software remotes took over.",
     "born": 2005,
-    "died": 2021
+    "died": 2021,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2005/10/12Apple-Introduces-the-New-iMac-G5/"
+      },
+      {
+        "label": "Apple TV remote support",
+        "url": "https://support.apple.com/en-us/102337"
+      }
+    ]
   },
   {
     "name": "iTunes U",
@@ -711,7 +773,17 @@
     "icon": "📱",
     "desc": "Apple's last iPhone with a Home button, Touch ID, an LCD screen, and a Lightning port. Discontinued when Apple replaced the SE line with the iPhone 16e.",
     "born": 2022,
-    "died": 2025
+    "died": 2025,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2022/03/apple-announces-the-new-iphone-se-a-powerful-smartphone-in-an-iconic-design/"
+      },
+      {
+        "label": "iPhone 16e debut",
+        "url": "https://www.apple.com/es/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/"
+      }
+    ]
   },
   {
     "name": "Macintosh TV",
@@ -827,7 +899,13 @@
     "icon": "🏆",
     "desc": "Apple's standalone iOS app for achievements, leaderboards, and multiplayer matchmaking. The service survived, but the app was removed in iOS 10 after years of neglect.",
     "born": 2010,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "Game Center introduction",
+        "url": "https://www.apple.com/newsroom/2010/09/01Apple-Introduces-New-iPod-touch/"
+      }
+    ]
   },
   {
     "name": "Apple TV (3rd gen)",
@@ -835,7 +913,13 @@
     "icon": "📺",
     "desc": "The streaming set-top box that never got an App Store. It played video and little else, and lingered as the cheaper Apple TV until Apple finally discontinued it in 2016.",
     "born": 2012,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "Technical specifications",
+        "url": "https://support.apple.com/kb/SP648"
+      }
+    ]
   },
   {
     "name": "iTunes Radio",
@@ -959,7 +1043,13 @@
     "icon": "🌊",
     "desc": "The translucent Bondi Blue all-in-one that helped pull Apple back from the brink. Designed under Jony Ive, later offered in fruity colors, and proof that Apple could still ship something the world wanted.",
     "born": 1998,
-    "died": 2003
+    "died": 2003,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/ca/fr/press/1998/05/iMac.html"
+      }
+    ]
   },
   {
     "name": "iMac G4",
@@ -967,7 +1057,13 @@
     "icon": "💡",
     "desc": "The sunflower iMac, with a flat-panel display floating on a chrome arm above a hemispherical dome. Beloved by designers and discontinued when Apple moved toward putting the whole computer behind the screen.",
     "born": 2002,
-    "died": 2004
+    "died": 2004,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2002/01/07Apple-Unveils-the-New-iMac/"
+      }
+    ]
   },
   {
     "name": "iBook",
@@ -975,7 +1071,17 @@
     "icon": "💻",
     "desc": "Apple's consumer laptop line, born as the colorful G3 clamshell in tangerine and blueberry and later refined into the white iBook. Retired when Apple switched to Intel and replaced it with the MacBook.",
     "born": 1999,
-    "died": 2006
+    "died": 2006,
+    "refs": [
+      {
+        "label": "Apple line reference",
+        "url": "https://www.apple.com/newsroom/2000/01/25PC-Data-Ranks-iBook-Number-One-Portable-in-U-S/"
+      },
+      {
+        "label": "MacBook replacement",
+        "url": "https://www.apple.com/newsroom/2006/05/16Apple-Unveils-New-MacBook-Featuring-Intel-Core-Duo-Processors/"
+      }
+    ]
   },
   {
     "name": "Power Mac G5",
@@ -983,7 +1089,17 @@
     "icon": "🗄️",
     "desc": "Apple's aluminum tower with a perforated cheese-grater face, promoted as the world's fastest personal computer. Steve Jobs promised 3GHz within a year. It never came, and Apple jumped to Intel two years later.",
     "born": 2003,
-    "died": 2006
+    "died": 2006,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2003/06/23Apple-Unleashes-the-Worlds-Fastest-Personal-Computer-the-Power-Mac-G5/"
+      },
+      {
+        "label": "Mac Pro replacement",
+        "url": "https://www.apple.com/newsroom/2006/08/07Apple-Unveils-New-Mac-Pro-Featuring-Quad-64-bit-Xeon-Processors/"
+      }
+    ]
   },
   {
     "name": "PowerBook",
@@ -991,7 +1107,17 @@
     "icon": "💼",
     "desc": "Apple's professional laptop line for 15 years, evolving from the chunky 100 series to the titanium and aluminum G4. Retired when Apple switched to Intel and rebranded the line as MacBook Pro.",
     "born": 1991,
-    "died": 2006
+    "died": 2006,
+    "refs": [
+      {
+        "label": "Titanium PowerBook era",
+        "url": "https://www.apple.com/newsroom/2001/01/09Apple-Unveils-One-Inch-Thick-Titanium-PowerBook-G4/"
+      },
+      {
+        "label": "MacBook Pro replacement",
+        "url": "https://www.apple.com/newsroom/2006/04/24Apple-Introduces-17-inch-MacBook-Pro/"
+      }
+    ]
   },
   {
     "name": "Hockey Puck Mouse",
@@ -1007,7 +1133,13 @@
     "icon": "🖱️",
     "desc": "Apple's first widely sold multi-button mouse, with a tiny clickable scroll ball on top. The ball clogged easily, leaving users rolling it upside down on paper to bring it back to life.",
     "born": 2005,
-    "died": 2009
+    "died": 2009,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2005/08/02Apple-Introduces-Mighty-Mouse/"
+      }
+    ]
   },
   {
     "name": "iPod Hi-Fi",
@@ -1023,7 +1155,13 @@
     "icon": "🔋",
     "desc": "Apple's official iPhone case with a built-in battery, instantly recognizable for the hunchback bulge that broke every other iPhone case design rule. Quietly discontinued in 2020 once MagSafe wireless charging arrived.",
     "born": 2015,
-    "died": 2020
+    "died": 2020,
+    "refs": [
+      {
+        "label": "Apple support",
+        "url": "https://support.apple.com/en-us/101208"
+      }
+    ]
   },
   {
     "name": "iPhone 5c",
@@ -1031,7 +1169,13 @@
     "icon": "📱",
     "desc": "The plastic, candy-colored iPhone marketed as the affordable option, sold alongside the premium 5s. It was outsold by the 5s in nearly every market and ended Apple's brief experiment with a mid-tier consumer iPhone.",
     "born": 2013,
-    "died": 2015
+    "died": 2015,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2013/09/10Apple-Introduces-iPhone-5c-The-Most-Colorful-iPhone-Yet/"
+      }
+    ]
   },
   {
     "name": "iPhone X",
@@ -1039,7 +1183,13 @@
     "icon": "📱",
     "desc": "Apple's tenth-anniversary iPhone, the first with Face ID and an edge-to-edge OLED display. Discontinued exactly one year after launch, an unusually short lifespan for a flagship iPhone.",
     "born": 2017,
-    "died": 2018
+    "died": 2018,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2017/09/the-future-is-here-iphone-x/"
+      }
+    ]
   },
   {
     "name": "iPhone 13 mini",
@@ -1047,7 +1197,17 @@
     "icon": "📱",
     "desc": "The last genuinely small modern iPhone, beloved by a vocal minority and ignored by enough buyers that Apple killed the mini line in 2023.",
     "born": 2021,
-    "died": 2023
+    "died": 2023,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/ie/newsroom/2021/09/apple-introduces-iphone-13-and-iphone-13-mini/"
+      },
+      {
+        "label": "iPhone 15 lineup",
+        "url": "https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/"
+      }
+    ]
   },
   {
     "name": "Apple Watch (Series 0)",
@@ -1055,7 +1215,17 @@
     "icon": "⌚",
     "desc": "The original Apple Watch, launched in 2015 amid breathless hype as the future of wearables. Sluggish and short on battery, it was retroactively nicknamed 'Series 0' once Series 1 arrived.",
     "born": 2015,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2015/03/09Apple-Watch-Available-in-Nine-Countries-on-April-24/"
+      },
+      {
+        "label": "Series 1 and Series 2 lineup",
+        "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-apple-watch-series-2/"
+      }
+    ]
   },
   {
     "name": "Sherlock",
@@ -1207,7 +1377,17 @@
     "icon": "🎙️",
     "desc": "A cheaper Siri-only Apple Music subscription that removed the normal app interface from streaming. Apple killed it after less than two years, presumably because yelling song requests at Siri was not the future.",
     "born": 2021,
-    "died": 2023
+    "died": 2023,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2021/10/apple-introduces-the-apple-music-voice-plan/"
+      },
+      {
+        "label": "Apple discontinuation support",
+        "url": "https://support.apple.com/en-asia/108385"
+      }
+    ]
   },
   {
     "name": "iMovie Theater",
@@ -1259,7 +1439,17 @@
     "icon": "📶",
     "desc": "A carrier-switching SIM system for cellular iPads, designed to make mobile data plans less tied to one network. Eventually made redundant by eSIM, and new activations ended in 2022.",
     "born": 2014,
-    "died": 2022
+    "died": 2022,
+    "refs": [
+      {
+        "label": "iPad Air 2 specs",
+        "url": "https://support.apple.com/es-es/112017"
+      },
+      {
+        "label": "Apple SIM activation end",
+        "url": "https://support.apple.com/en-us/109037"
+      }
+    ]
   },
   {
     "name": "Dark Sky",
@@ -1305,7 +1495,17 @@
     "icon": "📍",
     "desc": "Apple's standalone location-sharing app for keeping track of friends and family. Merged into the unified Find My app in iOS 13, alongside Find My iPhone.",
     "born": 2011,
-    "died": 2019
+    "died": 2019,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2011/10/04Apple-to-Launch-iCloud-on-October-12/"
+      },
+      {
+        "label": "Find My combination",
+        "url": "https://www.apple.com/newsroom/2019/10/macos-catalina-is-available-today/"
+      }
+    ]
   },
   {
     "name": "Final Cut Express",
@@ -1419,7 +1619,17 @@
     "icon": "⌚",
     "desc": "The original luxury Apple Watch made from 18-karat gold and sold for five-figure prices. Apple quietly retreated from the jewelry-store strategy and replaced it with ceramic.",
     "born": 2015,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "Gold Edition launch",
+        "url": "https://www.apple.com/newsroom/2015/03/09Apple-Watch-Available-in-Nine-Countries-on-April-24/"
+      },
+      {
+        "label": "Ceramic Edition replacement",
+        "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-apple-watch-series-2/"
+      }
+    ]
   },
   {
     "name": "MagSafe Battery Pack",
