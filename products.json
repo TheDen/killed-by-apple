@@ -40,6 +40,24 @@
     "died": 1998
   },
   {
+    "name": "AirPort Base Station (Graphite)",
+    "cat": "Hardware",
+    "icon": "📡",
+    "desc": "The original flying-saucer Wi-Fi base station Apple launched with the iBook, complete with a built-in 56K modem and 10BASE-T Ethernet. It helped kick-start mainstream Wi-Fi before Apple replaced it with a more capable second-generation model.",
+    "born": 1999,
+    "died": 2001,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/ca/fr/press/1999/07/airport.html"
+      },
+      {
+        "label": "Second-generation replacement",
+        "url": "https://www.apple.com/newsroom/2001/11/13Apple-Announces-Second-Generation-AirPort-Wireless-Networking/"
+      }
+    ]
+  },
+  {
     "name": "Power Mac G4 Cube",
     "cat": "Mac",
     "icon": "📦",
@@ -112,6 +130,24 @@
     ]
   },
   {
+    "name": "AirPort Card",
+    "cat": "Hardware",
+    "icon": "📶",
+    "desc": "Apple's original 802.11b wireless card for the iBook and other AirPort-ready Macs. It helped drag Wi-Fi into the mainstream, then gave way to the smaller, faster AirPort Extreme Card with 802.11g.",
+    "born": 1999,
+    "died": 2003,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/ca/fr/press/1999/07/airport.html"
+      },
+      {
+        "label": "AirPort Extreme Card replacement",
+        "url": "https://www.apple.com/newsroom/2003/01/07Apple-Delivers-AirPort-Extreme-802-11g-Wireless-Networking/"
+      }
+    ]
+  },
+  {
     "name": "HyperCard",
     "cat": "Software",
     "icon": "🗂️",
@@ -170,6 +206,24 @@
       {
         "label": "Replaced by Final Cut Studio",
         "url": "https://www.apple.com/newsroom/2005/04/17Apple-Unveils-Final-Cut-Studio/"
+      }
+    ]
+  },
+  {
+    "name": "Apple Wireless Mouse",
+    "cat": "Hardware",
+    "icon": "🖱️",
+    "desc": "Apple's first Bluetooth mouse, launched alongside the first Apple Wireless Keyboard to cut cable clutter from Mac desks. It lasted until Apple replaced it with the more capable Wireless Mighty Mouse.",
+    "born": 2003,
+    "died": 2006,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2003/09/16Apple-Introduces-Wireless-Keyboard-Mouse/"
+      },
+      {
+        "label": "Wireless Mighty Mouse replacement",
+        "url": "https://www.apple.com/newsroom/2006/07/25Apple-Debuts-Wireless-Mighty-Mouse/"
       }
     ]
   },
@@ -1154,6 +1208,24 @@
     "desc": "A cheaper Siri-only Apple Music subscription that removed the normal app interface from streaming. Apple killed it after less than two years, presumably because yelling song requests at Siri was not the future.",
     "born": 2021,
     "died": 2023
+  },
+  {
+    "name": "iMovie Theater",
+    "cat": "Feature",
+    "icon": "🎥",
+    "desc": "iMovie's iCloud-backed showcase for shared clips, movies, and trailers across Mac, iPhone, iPad, and Apple TV. Apple eventually dropped support and told users to move everything into iCloud Photos instead.",
+    "born": 2013,
+    "died": 2023,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2013/10/23Apple-Introduces-Next-Generation-iWork-and-iLife-Apps-for-OS-X-and-iOS/"
+      },
+      {
+        "label": "Apple support end notice",
+        "url": "https://support.apple.com/en-ie/102280"
+      }
+    ]
   },
   {
     "name": "Apple Pay Later",
