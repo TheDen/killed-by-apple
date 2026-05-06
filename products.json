@@ -195,7 +195,7 @@
   },
   {
     "name": "Rosetta",
-    "cat": "Software",
+    "cat": "Feature",
     "icon": "⚙️",
     "desc": "The translation layer that let PowerPC apps run on Intel Macs, enabling Apple's first major chip transition without breaking software. Removed in OS X Lion.",
     "born": 2006,
@@ -937,7 +937,7 @@
   },
   {
     "name": "AppleTalk",
-    "cat": "Software",
+    "cat": "Feature",
     "icon": "📡",
     "desc": "The networking protocol that let any Mac on a LocalTalk cable share files and printers with zero configuration. Phased out in macOS Snow Leopard after 24 years, as Apple standardized on TCP/IP and Bonjour.",
     "born": 1985,
@@ -1001,7 +1001,7 @@
   },
   {
     "name": "Classic Environment",
-    "cat": "Software",
+    "cat": "Feature",
     "icon": "🕰️",
     "desc": "The compatibility layer that let Mac OS 9 apps run inside early Mac OS X. It kept old software alive through the transition, then disappeared in Mac OS X Leopard.",
     "born": 2001,
@@ -1067,7 +1067,7 @@
   },
   {
     "name": "Back to My Mac",
-    "cat": "Service",
+    "cat": "Feature",
     "icon": "🔙",
     "desc": "A remote access feature that used iCloud to find and connect to your Macs over the internet. Magical when it worked, mysterious when it didn't, and gone from all macOS versions in 2019.",
     "born": 2007,
