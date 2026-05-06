@@ -702,5 +702,269 @@
     "desc": "The magnetic power connector that detached harmlessly when someone tripped over the cable, saving countless MacBooks from broken ports. Removed in 2016 for USB-C, then restored on MacBook Pro five years later.",
     "born": 2006,
     "died": 2016
+  },
+  {
+    "name": "eWorld",
+    "cat": "Service",
+    "icon": "🌐",
+    "desc": "Apple's cheerful AOL rival, built around a cartoon town of email, forums, news, and downloads. It was Mac-only, expensive, barely marketed, and shut down with only a fraction of AOL's audience.",
+    "born": 1994,
+    "died": 1996
+  },
+  {
+    "name": "Cyberdog",
+    "cat": "Software",
+    "icon": "🐕",
+    "desc": "Apple's OpenDoc-based internet suite with a web browser, email, news, FTP, and address book components. When OpenDoc was killed, Cyberdog was abandoned with it.",
+    "born": 1996,
+    "died": 1997
+  },
+  {
+    "name": "A/UX",
+    "cat": "Software",
+    "icon": "🐚",
+    "desc": "Apple's first official Unix operating system, blending UNIX System V with a familiar Macintosh interface. It gave Apple a credible enterprise Unix story years before Mac OS X, then vanished without a successor.",
+    "born": 1988,
+    "died": 1995
+  },
+  {
+    "name": "Classic Environment",
+    "cat": "Software",
+    "icon": "🕰️",
+    "desc": "The compatibility layer that let Mac OS 9 apps run inside early Mac OS X. It kept old software alive through the transition, then disappeared in Mac OS X Leopard.",
+    "born": 2001,
+    "died": 2007
+  },
+  {
+    "name": "iWork.com",
+    "cat": "Service",
+    "icon": "📄",
+    "desc": "Apple's web-based document sharing and commenting service for Pages, Numbers, and Keynote. It never escaped beta, then was shut down as Apple pushed users toward iCloud.",
+    "born": 2009,
+    "died": 2012
+  },
+  {
+    "name": "Cards",
+    "cat": "Software",
+    "icon": "💌",
+    "desc": "An iOS app for designing physical letterpress greeting cards that Apple would print and mail for you. Charming, oddly tactile, and dead less than two years later.",
+    "born": 2011,
+    "died": 2013
+  },
+  {
+    "name": "iBooks Author",
+    "cat": "Software",
+    "icon": "📚",
+    "desc": "Apple's Mac app for creating interactive ebooks and textbooks. It once looked like the future of digital publishing, then Apple folded its core features into Pages and pulled the app for new users.",
+    "born": 2012,
+    "died": 2020
+  },
+  {
+    "name": "Clips",
+    "cat": "Software",
+    "icon": "🎞️",
+    "desc": "Apple's playful short-form video editor for iPhone and iPad, with captions, filters, stickers, posters, and effects. It outlived several social-video trends before Apple finally stopped updates and downloads.",
+    "born": 2017,
+    "died": 2025
+  },
+  {
+    "name": "Apple Music Voice Plan",
+    "cat": "Service",
+    "icon": "🎙️",
+    "desc": "A cheaper Siri-only Apple Music subscription that removed the normal app interface from streaming. Apple killed it after less than two years, presumably because yelling song requests at Siri was not the future.",
+    "born": 2021,
+    "died": 2023
+  },
+  {
+    "name": "Apple Pay Later",
+    "cat": "Service",
+    "icon": "💳",
+    "desc": "Apple's own buy-now-pay-later service, letting users split purchases into four payments. Barely a year after launch, Apple abandoned the in-house version and shifted toward third-party installment providers.",
+    "born": 2023,
+    "died": 2024
+  },
+  {
+    "name": "Back to My Mac",
+    "cat": "Service",
+    "icon": "🔙",
+    "desc": "A remote access feature that used iCloud to find and connect to your Macs over the internet. Magical when it worked, mysterious when it didn't, and gone from all macOS versions in 2019.",
+    "born": 2007,
+    "died": 2019
+  },
+  {
+    "name": "Apple SIM",
+    "cat": "Feature",
+    "icon": "📶",
+    "desc": "A carrier-switching SIM system for cellular iPads, designed to make mobile data plans less tied to one network. Eventually made redundant by eSIM, and new activations ended in 2022.",
+    "born": 2014,
+    "died": 2022
+  },
+  {
+    "name": "Dark Sky",
+    "cat": "Service",
+    "icon": "🌧️",
+    "desc": "The beloved hyperlocal weather app famous for minute-by-minute rain alerts. Apple acquired it, shut down the Android app and API, then folded its best ideas into Apple Weather.",
+    "born": 2012,
+    "died": 2023
+  },
+  {
+    "name": "Lala.com",
+    "cat": "Service",
+    "icon": "🎧",
+    "desc": "A cloud music service where users could stream their libraries and buy cheap web-only songs. Apple acquired it in 2009 and shut it down months later, years before Apple Music arrived.",
+    "born": 2006,
+    "died": 2010
+  },
+  {
+    "name": "HopStop",
+    "cat": "Service",
+    "icon": "🚇",
+    "desc": "A transit directions app covering hundreds of cities before Apple Maps had serious public transport features. Apple bought it, used the knowledge, then shut it down as Maps gained transit directions.",
+    "born": 2005,
+    "died": 2015
+  },
+  {
+    "name": "Chomp",
+    "cat": "Service",
+    "icon": "🔎",
+    "desc": "An app search and discovery engine that helped users find apps by what they did, not just what they were called. Apple acquired it to improve App Store search, then shut the service off.",
+    "born": 2009,
+    "died": 2012
+  },
+  {
+    "name": "Find My Friends",
+    "cat": "Software",
+    "icon": "📍",
+    "desc": "Apple's standalone location-sharing app for keeping track of friends and family. Merged into the unified Find My app in iOS 13, alongside Find My iPhone.",
+    "born": 2011,
+    "died": 2019
+  },
+  {
+    "name": "Final Cut Express",
+    "cat": "Software",
+    "icon": "🎬",
+    "desc": "Apple's semi-pro video editor for people who wanted more than iMovie but less than full Final Cut Pro. Discontinued during the Final Cut Pro X reset.",
+    "born": 2003,
+    "died": 2011
+  },
+  {
+    "name": "Soundtrack Pro",
+    "cat": "Software",
+    "icon": "🎚️",
+    "desc": "Apple's professional audio editing and sound design app for video editors. Bundled with Final Cut Studio, then killed when Apple collapsed the old pro video suite.",
+    "born": 2005,
+    "died": 2011
+  },
+  {
+    "name": "DVD Studio Pro",
+    "cat": "Software",
+    "icon": "📀",
+    "desc": "High-end DVD authoring software for creating professional menus, masters, and replicated discs. Essential in the DVD era, stranded when Apple decided optical media was over.",
+    "born": 2001,
+    "died": 2011
+  },
+  {
+    "name": "Color",
+    "cat": "Software",
+    "icon": "🎨",
+    "desc": "A professional color-grading app born from Apple's acquisition of Silicon Color. It brought serious finishing tools to Final Cut Studio, then disappeared in the Final Cut Pro X transition.",
+    "born": 2007,
+    "died": 2011
+  },
+  {
+    "name": "iMac Pro",
+    "cat": "Mac",
+    "icon": "🖥️",
+    "desc": "The Space Gray all-in-one workstation Apple built as a stopgap for professionals waiting on a real Mac Pro. Expensive, powerful, barely updated, and eventually replaced in spirit by Mac Studio.",
+    "born": 2017,
+    "died": 2021
+  },
+  {
+    "name": "27-inch iMac",
+    "cat": "Mac",
+    "icon": "🖥️",
+    "desc": "The big-screen iMac that defined desktop Macs for over a decade. Apple killed it after launching Mac Studio and Studio Display, leaving the 24-inch iMac as the only all-in-one Mac.",
+    "born": 2009,
+    "died": 2022
+  },
+  {
+    "name": "Mac Pro",
+    "cat": "Mac",
+    "icon": "🧀",
+    "desc": "Apple's tower workstation line for professionals who needed maximum expansion and maximum invoices. After years of shrinking relevance beside Mac Studio, Apple finally discontinued the line entirely.",
+    "born": 2006,
+    "died": 2026
+  },
+  {
+    "name": "MacBook Air (11-inch)",
+    "cat": "Mac",
+    "icon": "💻",
+    "desc": "The tiny wedge-shaped MacBook Air that felt like a netbook from a better universe. Loved by travelers, students, and writers, then axed as Apple pushed larger Retina notebooks.",
+    "born": 2010,
+    "died": 2016
+  },
+  {
+    "name": "MacBook Pro (17-inch)",
+    "cat": "Mac",
+    "icon": "💻",
+    "desc": "Apple's biggest professional notebook, beloved by editors, developers, and anyone who wanted a portable desktop. Killed when Retina MacBook Pros arrived and Apple decided 15 inches was enough.",
+    "born": 2006,
+    "died": 2012
+  },
+  {
+    "name": "Apple Watch Edition (gold)",
+    "cat": "Hardware",
+    "icon": "⌚",
+    "desc": "The original luxury Apple Watch made from 18-karat gold and sold for five-figure prices. Apple quietly retreated from the jewelry-store strategy and replaced it with ceramic.",
+    "born": 2015,
+    "died": 2016
+  },
+  {
+    "name": "MagSafe Battery Pack",
+    "cat": "Hardware",
+    "icon": "🔋",
+    "desc": "Apple's magnetic battery pack for iPhone 12 and later, elegant but small and slow compared with third-party alternatives. Discontinued when the iPhone moved from Lightning to USB-C.",
+    "born": 2021,
+    "died": 2023
+  },
+  {
+    "name": "MagSafe Duo Charger",
+    "cat": "Hardware",
+    "icon": "🔌",
+    "desc": "Apple's folding travel charger for iPhone and Apple Watch. Clever, overpriced, and discontinued alongside the MagSafe Battery Pack after the USB-C iPhone transition.",
+    "born": 2020,
+    "died": 2023
+  },
+  {
+    "name": "Apple USB SuperDrive",
+    "cat": "Hardware",
+    "icon": "💿",
+    "desc": "The external CD and DVD drive that survived long after Apple removed optical drives from Macs. After 16 years, it quietly went out of stock worldwide and effectively disappeared.",
+    "born": 2008,
+    "died": 2024
+  },
+  {
+    "name": "Apple Network Server",
+    "cat": "Hardware",
+    "icon": "🗄️",
+    "desc": "A short-lived PowerPC server line that did not even run Mac OS, shipping instead with IBM AIX. Expensive, strange, and canceled during Apple's 1997 product purge.",
+    "born": 1996,
+    "died": 1997
+  },
+  {
+    "name": "Apple II line",
+    "cat": "Hardware",
+    "icon": "🖥️",
+    "desc": "The 8-bit computer family that made Apple a real company and dominated classrooms for years. It outlived the Apple III, Lisa, and many early Macs before Apple finally ended the line in 1993.",
+    "born": 1977,
+    "died": 1993
+  },
+  {
+    "name": "LaserWriter line",
+    "cat": "Hardware",
+    "icon": "🖨️",
+    "desc": "Apple's PostScript laser printer family, a key piece of the desktop publishing revolution. Once essential to the Mac ecosystem, it was killed when Steve Jobs cut non-core peripherals.",
+    "born": 1985,
+    "died": 1997
   }
 ]
