@@ -76,6 +76,42 @@
     ]
   },
   {
+    "name": "Cinema Tools",
+    "cat": "Software",
+    "icon": "🎞️",
+    "desc": "Apple's film-editing companion for Final Cut Pro, built for cut lists, change lists, and 24 fps workflows. It lasted barely a year as a standalone app before Apple folded it into Final Cut Pro 4.",
+    "born": 2002,
+    "died": 2003,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2002/04/05Apple-Announces-Cinema-Tools-for-Final-Cut-Pro/"
+      },
+      {
+        "label": "Folded into Final Cut Pro 4",
+        "url": "https://www.apple.com/newsroom/2003/04/06Apple-Announces-Final-Cut-Pro-4/"
+      }
+    ]
+  },
+  {
+    "name": "AirPort Base Station (Dual Ethernet)",
+    "cat": "Hardware",
+    "icon": "📡",
+    "desc": "Apple's second-generation flying-saucer Wi-Fi base station, with built-in firewall, dual Ethernet ports, and AOL support. It vanished when Apple jumped to 802.11g and renamed the line AirPort Extreme.",
+    "born": 2001,
+    "died": 2003,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2001/11/13Apple-Announces-Second-Generation-AirPort-Wireless-Networking/"
+      },
+      {
+        "label": "AirPort Extreme replacement",
+        "url": "https://www.apple.com/newsroom/2003/01/07Apple-Delivers-AirPort-Extreme-802-11g-Wireless-Networking/"
+      }
+    ]
+  },
+  {
     "name": "HyperCard",
     "cat": "Software",
     "icon": "🗂️",
@@ -102,6 +138,60 @@
     ]
   },
   {
+    "name": "Soundtrack",
+    "cat": "Software",
+    "icon": "🎵",
+    "desc": "Apple's loop-based royalty-free music tool for video editors, DVD authors, and web developers. It was later reinvented as the more ambitious Soundtrack Pro and disappeared as its own product.",
+    "born": 2003,
+    "died": 2005,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2003/07/16Apple-Introduces-Soundtrack-as-Standalone-Product/"
+      },
+      {
+        "label": "Soundtrack Pro successor",
+        "url": "https://www.apple.com/newsroom/2005/04/17Apple-Unveils-Final-Cut-Studio/"
+      }
+    ]
+  },
+  {
+    "name": "Production Suite",
+    "cat": "Software",
+    "icon": "🎬",
+    "desc": "Apple's short-lived pre-Final Cut Studio bundle, combining Final Cut Pro HD, Motion, and DVD Studio Pro into a single pro-video suite. It was a transitional product and lasted less than a year.",
+    "born": 2004,
+    "died": 2005,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2004/08/10Apple-Introduces-Production-Suite/"
+      },
+      {
+        "label": "Replaced by Final Cut Studio",
+        "url": "https://www.apple.com/newsroom/2005/04/17Apple-Unveils-Final-Cut-Studio/"
+      }
+    ]
+  },
+  {
+    "name": "Xserve RAID",
+    "cat": "Hardware",
+    "icon": "💾",
+    "desc": "Apple's 3U rack-mount RAID array for Xserve and pro media workflows. It offered unusually cheap high-capacity storage for its day, then disappeared as Apple backed away from enterprise storage hardware.",
+    "born": 2003,
+    "died": 2008,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2003/02/10Apple-Introduces-Xserve-RAID-Storage-System-With-Breakthrough-Performance-and-Pricing/"
+      },
+      {
+        "label": "Discontinuation report",
+        "url": "https://www.macworld.com/article/189408/raid-11.html"
+      }
+    ]
+  },
+  {
     "name": "Shake",
     "cat": "Software",
     "icon": "🎬",
@@ -112,6 +202,24 @@
       {
         "label": "Apple announcement",
         "url": "https://www.apple.com/newsroom/2002/07/22Apple-Announces-Shake-2-5-for-Mac-OS-X/"
+      }
+    ]
+  },
+  {
+    "name": "Final Cut Studio",
+    "cat": "Software",
+    "icon": "🎬",
+    "desc": "Apple's flagship pro-video suite bundling Final Cut Pro, Motion, Soundtrack Pro, DVD Studio Pro, and later Color and Compressor. It dominated mid-2000s Mac video production until Final Cut Pro X blew up the old suite model.",
+    "born": 2005,
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2005/04/17Apple-Unveils-Final-Cut-Studio/"
+      },
+      {
+        "label": "Final Cut Pro X transition",
+        "url": "https://www.apple.com/newsroom/2011/06/21Apple-Revolutionizes-Video-Editing-With-Final-Cut-Pro-X/"
       }
     ]
   },
