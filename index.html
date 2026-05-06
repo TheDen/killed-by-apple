@@ -318,6 +318,37 @@
         letter-spacing: 0.005em;
       }
 
+      .card-links {
+        display: flex;
+        flex-wrap: wrap;
+        gap: 8px;
+        margin-top: 14px;
+      }
+
+      .card-link {
+        display: inline-flex;
+        align-items: center;
+        gap: 6px;
+        padding: 6px 10px;
+        border-radius: 999px;
+        border: 1px solid rgba(0, 0, 0, 0.08);
+        background: rgba(0, 113, 227, 0.04);
+        color: var(--blue);
+        font-size: 12px;
+        font-weight: 500;
+        text-decoration: none;
+        letter-spacing: -0.01em;
+        transition:
+          background 0.15s,
+          border-color 0.15s,
+          color 0.15s;
+      }
+
+      .card-link:hover {
+        background: rgba(0, 113, 227, 0.08);
+        border-color: rgba(0, 113, 227, 0.18);
+      }
+
       .card-footer {
         display: flex;
         align-items: center;
@@ -552,6 +583,26 @@
           return;
         }
 
+        const renderRefs = (product) => {
+          const refs = product.refs || [];
+          if (!refs.length) return "";
+
+          return `
+            <div class="card-links">
+              ${refs
+                .map(
+                  (ref) => `
+                    <a class="card-link" href="${ref.url}" target="_blank" rel="noopener noreferrer">
+                      <span>${ref.label}</span>
+                      <span aria-hidden="true">↗</span>
+                    </a>
+                  `,
+                )
+                .join("")}
+            </div>
+          `;
+        };
+
         grid.innerHTML = list
           .map(
             (p) => `
@@ -561,6 +612,7 @@
         <div class="card-name">${p.name}</div>
         <div class="badge">${p.cat}</div>
         <p class="card-desc">${p.desc}</p>
+        ${renderRefs(p)}
       </div>
       <div class="card-footer">
         <div class="dates">

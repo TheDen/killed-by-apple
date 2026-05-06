@@ -45,7 +45,17 @@
     "icon": "📦",
     "desc": "A fanless, silent 8-inch cube of a Mac and a genuine design triumph. But at $1,799, with limited expandability and cheaper Power Mac G4 towers nearby, it was a commercial failure.",
     "born": 2000,
-    "died": 2001
+    "died": 2001,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2000/07/19Apple-Introduces-Revolutionary/"
+      },
+      {
+        "label": "Discontinuation",
+        "url": "https://www.apple.com/newsroom/2001/07/03Apple-Puts-Power-Mac-G4-Cube-on-Ice/"
+      }
+    ]
   },
   {
     "name": "iTools",
@@ -53,7 +63,17 @@
     "icon": "🌐",
     "desc": "Apple's first internet services bundle, offering a free @mac.com email address and iDisk cloud storage. Replaced by the paid .Mac subscription service.",
     "born": 2000,
-    "died": 2002
+    "died": 2002,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2000/01/05Apple-Unveils-Internet-Strategy/"
+      },
+      {
+        "label": ".Mac replacement",
+        "url": "https://www.apple.com/newsroom/2002/07/17Apple-Launches-Mac/"
+      }
+    ]
   },
   {
     "name": "HyperCard",
@@ -69,7 +89,17 @@
     "icon": "🎵",
     "desc": "The colorful, compact iPod that made portable music fashionable. It quickly became a hit, then was discontinued to make way for the even thinner iPod nano.",
     "born": 2004,
-    "died": 2005
+    "died": 2005,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2004/01/06Apple-Introduces-iPod-mini/"
+      },
+      {
+        "label": "Last refresh before end",
+        "url": "https://www.apple.com/newsroom/2005/02/23Apple-Unveils-New-iPod-mini-Starting-at-Just-199/"
+      }
+    ]
   },
   {
     "name": "Shake",
@@ -77,7 +107,13 @@
     "icon": "🎬",
     "desc": "Professional VFX compositing software used on major Hollywood films. Apple acquired it, sold it as a high-end Mac tool, then discontinued it in 2009 without a direct successor.",
     "born": 2002,
-    "died": 2009
+    "died": 2009,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2002/07/22Apple-Announces-Shake-2-5-for-Mac-OS-X/"
+      }
+    ]
   },
   {
     "name": "Apple Cinema Display",
@@ -93,7 +129,13 @@
     "icon": "🎬",
     "desc": "A collaborative media asset management system for Final Cut Pro workflows in studios and broadcast. Discontinued in 2011 during Apple's messy Final Cut Pro X transition.",
     "born": 2008,
-    "died": 2011
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2007/04/15Apple-Introduces-Final-Cut-Server/"
+      }
+    ]
   },
   {
     "name": "Front Row",
@@ -101,7 +143,13 @@
     "icon": "📺",
     "desc": "A full-screen media center app for Macs, designed to be controlled from the couch with the Apple Remote. Killed in OS X Lion without a replacement.",
     "born": 2005,
-    "died": 2011
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2005/10/12Apple-Introduces-the-New-iMac-G5/"
+      }
+    ]
   },
   {
     "name": "iDVD",
@@ -109,7 +157,13 @@
     "icon": "💿",
     "desc": "DVD menu and disc authoring software bundled with every Mac. Made beautiful animated menus, until optical drives quietly disappeared from Apple hardware forever.",
     "born": 2001,
-    "died": 2011
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2001/01/09Apple-Brings-DVD-Authoring-to-the-Desktop-with-iDVD-and-DVD-Studio-Pro/"
+      }
+    ]
   },
   {
     "name": "iWeb",
@@ -117,7 +171,13 @@
     "icon": "🌐",
     "desc": "Drag-and-drop personal website creator, tightly integrated with MobileMe hosting. As MobileMe was wound down and iCloud offered no web hosting replacement, iWeb was left behind.",
     "born": 2006,
-    "died": 2011
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2006/01/10Apple-Announces-iLife-06/"
+      }
+    ]
   },
   {
     "name": "Logic Express",
@@ -125,7 +185,13 @@
     "icon": "🎛️",
     "desc": "The affordable entry point to professional music production on Mac. Killed when Apple slashed Logic Pro 9's price to $199, eliminating the need for a budget tier.",
     "born": 2004,
-    "died": 2011
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2004/09/29Apple-Introduces-Logic-Pro-7-Logic-Express-7/"
+      }
+    ]
   },
   {
     "name": "Rosetta",
@@ -141,7 +207,13 @@
     "icon": "🖥️",
     "desc": "Apple's rack-mounted 1U server hardware and one of Apple's few genuine enterprise products. Discontinued as Apple pushed customers toward Mac Pro and Mac mini server configurations.",
     "born": 2002,
-    "died": 2011
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2002/05/14Apple-Introduces-Xserve-1U-Rack-Mount-Server/"
+      }
+    ]
   },
   {
     "name": "iTunes Ping",
@@ -149,7 +221,13 @@
     "icon": "🎵",
     "desc": "Apple's music-focused social network. Steve Jobs personally called Mark Zuckerberg to negotiate a Facebook tie-in. Zuckerberg asked for too much; Ping launched anyway and flopped.",
     "born": 2010,
-    "died": 2012
+    "died": 2012,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2010/09/01Apple-Introduces-iTunes-10-With-Ping/"
+      }
+    ]
   },
   {
     "name": "MobileMe",
@@ -157,7 +235,17 @@
     "icon": "☁️",
     "desc": "Apple's cloud sync and email service. So unreliable at launch that Steve Jobs called it an embarrassment to the entire company at an internal meeting. Replaced by iCloud.",
     "born": 2008,
-    "died": 2012
+    "died": 2012,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2008/06/09Apple-Introduces-MobileMe-Internet-Service/"
+      },
+      {
+        "label": "iCloud replacement",
+        "url": "https://www.apple.com/newsroom/2011/06/06Apple-Introduces-iCloud/"
+      }
+    ]
   },
   {
     "name": "Aperture",
@@ -173,7 +261,13 @@
     "icon": "🎵",
     "desc": "The hard-drive click-wheel iPod that defined the line for more than a decade. Discontinued in 2014 as Apple moved its music focus to flash storage, iPhone, and streaming.",
     "born": 2001,
-    "died": 2014
+    "died": 2014,
+    "refs": [
+      {
+        "label": "Apple classic refresh",
+        "url": "https://www.apple.com/newsroom/2007/09/05Apple-Introduces-New-iPod-classic/"
+      }
+    ]
   },
   {
     "name": "Beats Music",
@@ -181,7 +275,17 @@
     "icon": "🎧",
     "desc": "Dr. Dre and Jimmy Iovine's streaming service, praised for human-curated playlists. Apple acquired Beats for $3 billion and shut Beats Music down the next year as Apple Music took over.",
     "born": 2014,
-    "died": 2015
+    "died": 2015,
+    "refs": [
+      {
+        "label": "Apple acquires Beats",
+        "url": "https://www.apple.com/newsroom/2014/05/28Apple-to-Acquire-Beats-Music-Beats-Electronics/"
+      },
+      {
+        "label": "Apple Music announcement",
+        "url": "https://www.apple.com/newsroom/2015/06/08Introducing-Apple-Music-All-The-Ways-You-Love-Music-All-in-One-Place-/"
+      }
+    ]
   },
   {
     "name": "iPhoto",
@@ -205,7 +309,13 @@
     "icon": "🎧",
     "desc": "The 3.5mm audio port was present on every iPhone for 9 years. Apple called its removal \"courageous\" in 2016 and included a Lightning adapter in the box. The box no longer ships.",
     "born": 2007,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "iPhone 7 announcement",
+        "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/"
+      }
+    ]
   },
   {
     "name": "QuickTime for Windows",
@@ -213,7 +323,13 @@
     "icon": "▶️",
     "desc": "Apple's media player for Windows, kept alive for over 20 years. Killed in 2016 with critical security vulnerabilities still unpatched. Users were advised to uninstall immediately.",
     "born": 1994,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "Apple support note",
+        "url": "https://support.apple.com/en-us/106375"
+      }
+    ]
   },
   {
     "name": "Thunderbolt Display",
@@ -221,7 +337,17 @@
     "icon": "🖥️",
     "desc": "Apple's last standalone external monitor before the Pro Display XDR. Discontinued in 2016 without a direct Apple replacement, leaving pro Mac users waiting until 2019.",
     "born": 2011,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2011/07/20Apple-Introduces-Worlds-First-Thunderbolt-Display/"
+      },
+      {
+        "label": "Apple support specs",
+        "url": "https://support.apple.com/en-us/112597"
+      }
+    ]
   },
   {
     "name": "32-bit iOS App Support",
@@ -237,7 +363,13 @@
     "icon": "🎵",
     "desc": "The ultra-thin, colorful iPod that evolved through seven generations and countless designs. A design icon of the 2000s and 2010s, killed alongside its sibling with no ceremony.",
     "born": 2005,
-    "died": 2017
+    "died": 2017,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2005/09/07Apple-Introduces-iPod-nano/"
+      }
+    ]
   },
   {
     "name": "iPod shuffle",
@@ -245,7 +377,13 @@
     "icon": "🎵",
     "desc": "The tiny clip-on music player with no screen, just shuffle. Simple, cheap, and genuinely fun. The only music player you could wear like a badge.",
     "born": 2005,
-    "died": 2017
+    "died": 2017,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2005/01/11Apple-Introduces-iPod-shuffle/"
+      }
+    ]
   },
   {
     "name": "AirPort Express",
@@ -253,7 +391,13 @@
     "icon": "📡",
     "desc": "Apple's compact Wi-Fi router that doubled as a wired AirPlay audio receiver, beloved by people who wanted wireless audio without replacing their speakers. Gone with the rest of the AirPort line.",
     "born": 2004,
-    "died": 2018
+    "died": 2018,
+    "refs": [
+      {
+        "label": "Apple update",
+        "url": "https://www.apple.com/newsroom/2008/03/17Apple-Introduces-New-AirPort-Express-with-802-11n/"
+      }
+    ]
   },
   {
     "name": "AirPort Extreme",
@@ -261,7 +405,13 @@
     "icon": "📡",
     "desc": "Apple's flagship home Wi-Fi router, later redesigned into a striking vertical tower. Discontinued as Apple exited the router business entirely.",
     "born": 2003,
-    "died": 2018
+    "died": 2018,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2003/01/07Apple-Delivers-AirPort-Extreme-802-11g-Wireless-Networking/"
+      }
+    ]
   },
   {
     "name": "Time Capsule",
@@ -269,7 +419,13 @@
     "icon": "💾",
     "desc": "A Wi-Fi router with a built-in hard drive for automatic, wireless Time Machine backups. An elegant hardware solution to an everyday problem, killed alongside the AirPort line.",
     "born": 2008,
-    "died": 2018
+    "died": 2018,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2008/01/15Apple-Announces-Time-Capsule/"
+      }
+    ]
   },
   {
     "name": "iTunes",
@@ -285,7 +441,13 @@
     "icon": "💻",
     "desc": "Apple's thinnest, lightest laptop, with a single USB-C port, fanless design, and a beautiful Retina display. Too compromised for most buyers; too underpowered to justify its price.",
     "born": 2015,
-    "died": 2019
+    "died": 2019,
+    "refs": [
+      {
+        "label": "Apple support specs",
+        "url": "https://support.apple.com/en-us/111986"
+      }
+    ]
   },
   {
     "name": "32-bit macOS App Support",
@@ -301,7 +463,13 @@
     "icon": "📰",
     "desc": "A magazine subscription service born as Next Issue and later rebranded Texture, dubbed \"the Netflix of magazines.\" Apple acquired it in 2018 and folded the idea into Apple News+.",
     "born": 2012,
-    "died": 2019
+    "died": 2019,
+    "refs": [
+      {
+        "label": "Apple acquisition",
+        "url": "https://www.apple.com/newsroom/2018/03/apple-to-acquire-digital-magazine-service-texture/"
+      }
+    ]
   },
   {
     "name": "Apple Remote",
@@ -317,7 +485,13 @@
     "icon": "🎓",
     "desc": "Platform for universities, schools, and educators to share lectures and course materials through iTunes. Quietly shut down and partially absorbed into Apple Podcasts.",
     "born": 2007,
-    "died": 2021
+    "died": 2021,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2007/05/30Apple-Announces-iTunes-U-on-the-iTunes-Store/"
+      }
+    ]
   },
   {
     "name": "iPod touch",
@@ -325,7 +499,17 @@
     "icon": "🎵",
     "desc": "The last surviving iPod, an iPhone without the cellular contract. Beloved by kids, travelers, and budget-conscious music fans for 15 years. The end of an era.",
     "born": 2007,
-    "died": 2022
+    "died": 2022,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2007/09/05Apple-Unveils-iPod-touch/"
+      },
+      {
+        "label": "Final refresh",
+        "url": "https://www.apple.com/newsroom/2019/05/new-ipod-touch-delivers-even-greater-performance/"
+      }
+    ]
   },
   {
     "name": "macOS Server",
@@ -333,7 +517,13 @@
     "icon": "🖥️",
     "desc": "Apple's server OS, once a serious enterprise product with directory services, file sharing, and device management. Wound down over years until it became just a few GUI wrappers.",
     "born": 1999,
-    "died": 2022
+    "died": 2022,
+    "refs": [
+      {
+        "label": "Apple support discontinuation",
+        "url": "https://support.apple.com/en-us/101601"
+      }
+    ]
   },
   {
     "name": "HomePod (1st gen)",
@@ -341,7 +531,17 @@
     "icon": "🔊",
     "desc": "Apple's premium smart speaker with genuinely excellent audio quality. Discontinued in 2021 as Apple focused on the cheaper HomePod mini, before reviving the full-size HomePod in 2023.",
     "born": 2018,
-    "died": 2021
+    "died": 2021,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2018/01/homepod-arrives-february-9-available-to-order-this-friday/"
+      },
+      {
+        "label": "HomePod return",
+        "url": "https://www.apple.com/newsroom/2023/01/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence/"
+      }
+    ]
   },
   {
     "name": "iPhone SE (3rd gen)",
@@ -373,7 +573,13 @@
     "icon": "📄",
     "desc": "Apple's bundled office suite, born as ClarisWorks in 1991. For 16 years it was the word processor and spreadsheet for millions of Mac and Apple II users. Retired when iWork arrived.",
     "born": 1991,
-    "died": 2007
+    "died": 2007,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2000/01/05Apple-Introduces-AppleWorks-6/"
+      }
+    ]
   },
   {
     "name": ".Mac",
@@ -389,7 +595,13 @@
     "icon": "🔄",
     "desc": "A Mac utility for syncing contacts, calendars, and bookmarks across Macs, phones, and iPods over Bluetooth or USB. Removed from OS X Lion as iCloud made manual device sync feel obsolete.",
     "born": 2002,
-    "died": 2011
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2002/07/17Apple-Introduces-iSync/"
+      }
+    ]
   },
   {
     "name": "eMac",
@@ -397,7 +609,13 @@
     "icon": "🖥️",
     "desc": "An education-focused all-in-one Mac built around a 17-inch CRT. Initially sold only to schools, briefly offered to consumers, then returned to education before being discontinued in 2006.",
     "born": 2002,
-    "died": 2006
+    "died": 2006,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2002/04/29Apple-Unveils-New-eMac-for-Education/"
+      }
+    ]
   },
   {
     "name": "iSight",
@@ -405,7 +623,13 @@
     "icon": "📹",
     "desc": "Apple's sleek external FireWire webcam: aluminum, cylindrical, and perfectly designed. Discontinued once Apple started building cameras into iMacs, MacBooks, and displays.",
     "born": 2003,
-    "died": 2006
+    "died": 2006,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2003/06/23Apple-Introduces-iChat-AV-and-iSight/"
+      }
+    ]
   },
   {
     "name": "30-pin Dock Connector",
@@ -413,7 +637,13 @@
     "icon": "🔌",
     "desc": "The wide 30-pin connector used on every iPod and iPhone for nine years. It spawned an entire accessories industry: alarm clocks, car adapters, speaker docks. Killed overnight by Lightning.",
     "born": 2003,
-    "died": 2012
+    "died": 2012,
+    "refs": [
+      {
+        "label": "Lightning transition",
+        "url": "https://www.apple.com/newsroom/2012/09/12Apple-Introduces-iPhone-5/"
+      }
+    ]
   },
   {
     "name": "WebObjects",
@@ -421,7 +651,13 @@
     "icon": "🌐",
     "desc": "A powerful web application server born at NeXT that Apple used to run the iTunes Store. Quietly deprecated in 2016 with no migration path for the enterprise customers who relied on it.",
     "born": 1996,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "Apple release",
+        "url": "https://www.apple.com/newsroom/2000/03/01Apple-Delivers-WebObjects-4-5/"
+      }
+    ]
   },
   {
     "name": "Game Center app",
@@ -445,7 +681,13 @@
     "icon": "📻",
     "desc": "Apple's free ad-supported streaming radio service, built into iTunes and iOS. A direct Pandora rival, folded into Apple Music within three years without so much as a goodbye.",
     "born": 2013,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2013/06/10Apple-Announces-iTunes-Radio/"
+      }
+    ]
   },
   {
     "name": "Newsstand",
@@ -461,7 +703,13 @@
     "icon": "👆",
     "desc": "Pressure-sensitive display tech enabling Peek, Pop, and shortcut menus based on press force. Quietly dropped from the iPhone XR in 2018, abandoned entirely with the iPhone 11.",
     "born": 2015,
-    "died": 2019
+    "died": 2019,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2015/09/09Apple-Introduces-iPhone-6s-iPhone-6s-Plus/"
+      }
+    ]
   },
   {
     "name": "Mac Pro (Trash Can)",
@@ -469,7 +717,13 @@
     "icon": "🗑️",
     "desc": "The radical cylindrical Mac Pro: striking to look at, thermally compromised inside. Apple went six years without an update and publicly admitted they had \"painted themselves into a corner.\"",
     "born": 2013,
-    "died": 2019
+    "died": 2019,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2013/10/23Introducing-the-All-New-Mac-Pro-The-Most-Radical-Mac-Ever/"
+      }
+    ]
   },
   {
     "name": "Apple TV Remote app",
@@ -485,7 +739,13 @@
     "icon": "🪟",
     "desc": "macOS's dedicated layer of mini-apps called widgets, accessed with a keystroke. Groundbreaking in Tiger, disabled by default years later, and finally removed in macOS Catalina.",
     "born": 2005,
-    "died": 2019
+    "died": 2019,
+    "refs": [
+      {
+        "label": "Tiger preview",
+        "url": "https://www.apple.com/newsroom/2004/06/28Apple-Previews-Mac-OS-X-Tiger/"
+      }
+    ]
   },
   {
     "name": "Network Utility",
@@ -501,7 +761,13 @@
     "icon": "⌨️",
     "desc": "The OLED strip that replaced the function key row on MacBook Pros. A programmable, context-sensitive control surface that most users ignored, most developers never supported, and Apple finally dropped with the last 13-inch MacBook Pro.",
     "born": 2016,
-    "died": 2023
+    "died": 2023,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2016/10/apple-unveils-groundbreaking-new-macbook-pro/"
+      }
+    ]
   },
   {
     "name": "Lightning Connector",
@@ -509,7 +775,13 @@
     "icon": "⚡",
     "desc": "Apple's slim, reversible 8-pin connector, used on iPhone for more than a decade. Replaced on new iPhones by USB-C in 2023 after years of regulatory and industry pressure.",
     "born": 2012,
-    "died": 2023
+    "died": 2023,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2012/09/12Apple-Introduces-iPhone-5/"
+      }
+    ]
   },
   {
     "name": "AirPower",
@@ -781,7 +1053,17 @@
     "icon": "💳",
     "desc": "Apple's own buy-now-pay-later service, letting users split purchases into four payments. Barely a year after launch, Apple abandoned the in-house version and shifted toward third-party installment providers.",
     "born": 2023,
-    "died": 2024
+    "died": 2024,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2023/03/apple-introduces-apple-pay-later/"
+      },
+      {
+        "label": "Apple support status",
+        "url": "https://support.apple.com/apple-pay-later"
+      }
+    ]
   },
   {
     "name": "Back to My Mac",
@@ -805,7 +1087,13 @@
     "icon": "🌧️",
     "desc": "The beloved hyperlocal weather app famous for minute-by-minute rain alerts. Apple acquired it, shut down the Android app and API, then folded its best ideas into Apple Weather.",
     "born": 2012,
-    "died": 2023
+    "died": 2023,
+    "refs": [
+      {
+        "label": "Apple support transition",
+        "url": "https://support.apple.com/en-lamr/102594"
+      }
+    ]
   },
   {
     "name": "Lala.com",
@@ -845,7 +1133,13 @@
     "icon": "🎬",
     "desc": "Apple's semi-pro video editor for people who wanted more than iMovie but less than full Final Cut Pro. Discontinued during the Final Cut Pro X reset.",
     "born": 2003,
-    "died": 2011
+    "died": 2011,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2003/01/07Apple-Unveils-Final-Cut-Express/"
+      }
+    ]
   },
   {
     "name": "Soundtrack Pro",
@@ -877,7 +1171,13 @@
     "icon": "🖥️",
     "desc": "The Space Gray all-in-one workstation Apple built as a stopgap for professionals waiting on a real Mac Pro. Expensive, powerful, barely updated, and eventually replaced in spirit by Mac Studio.",
     "born": 2017,
-    "died": 2021
+    "died": 2021,
+    "refs": [
+      {
+        "label": "Apple preview",
+        "url": "https://www.apple.com/newsroom/2017/06/imac-pro-most-powerful-mac-arrives-december/"
+      }
+    ]
   },
   {
     "name": "27-inch iMac",
@@ -885,7 +1185,17 @@
     "icon": "🖥️",
     "desc": "The big-screen iMac that defined desktop Macs for over a decade. Apple killed it after launching Mac Studio and Studio Display, leaving the 24-inch iMac as the only all-in-one Mac.",
     "born": 2009,
-    "died": 2022
+    "died": 2022,
+    "refs": [
+      {
+        "label": "Apple introduction",
+        "url": "https://www.apple.com/newsroom/2009/10/20Apple-Unveils-New-iMac-With-21-5-and-27-inch-Displays/"
+      },
+      {
+        "label": "Last major update",
+        "url": "https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/"
+      }
+    ]
   },
   {
     "name": "Mac Pro",
@@ -901,7 +1211,13 @@
     "icon": "💻",
     "desc": "The tiny wedge-shaped MacBook Air that felt like a netbook from a better universe. Loved by travelers, students, and writers, then axed as Apple pushed larger Retina notebooks.",
     "born": 2010,
-    "died": 2016
+    "died": 2016,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2010/10/20Apple-Reinvents-Notebooks-With-New-MacBook-Air/"
+      }
+    ]
   },
   {
     "name": "MacBook Pro (17-inch)",
@@ -909,7 +1225,13 @@
     "icon": "💻",
     "desc": "Apple's biggest professional notebook, beloved by editors, developers, and anyone who wanted a portable desktop. Killed when Retina MacBook Pros arrived and Apple decided 15 inches was enough.",
     "born": 2006,
-    "died": 2012
+    "died": 2012,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2006/04/24Apple-Introduces-17-inch-MacBook-Pro/"
+      }
+    ]
   },
   {
     "name": "Apple Watch Edition (gold)",
