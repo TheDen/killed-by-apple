@@ -173,6 +173,10 @@
         flex-wrap: wrap;
       }
 
+      .cat-pills::-webkit-scrollbar {
+        display: none;
+      }
+
       .cat-pill {
         display: inline-flex;
         align-items: center;
@@ -483,19 +487,76 @@
 
       /* ── Responsive ── */
       @media (max-width: 640px) {
+        .nav-inner {
+          padding: 0 16px;
+        }
+        .nav-count {
+          display: none;
+        }
+        header {
+          padding: 34px 16px 24px;
+        }
+        .tagline {
+          max-width: 34ch;
+          margin-bottom: 24px;
+          font-size: 15px;
+          line-height: 1.4;
+        }
         .filter-divider {
           display: none;
         }
         .filterbar-inner {
+          padding: 10px 16px;
+          display: grid;
+          grid-template-columns: minmax(0, 1fr) auto;
+          align-items: center;
           gap: 8px;
         }
+        .cat-pills {
+          grid-column: 1 / -1;
+          flex-wrap: nowrap;
+          overflow-x: auto;
+          gap: 6px;
+          padding-bottom: 2px;
+          scrollbar-width: none;
+          -ms-overflow-style: none;
+          scroll-snap-type: x proximity;
+        }
+        .cat-pill {
+          flex: 0 0 auto;
+          padding: 4px 12px;
+          font-size: 12px;
+          scroll-snap-align: start;
+        }
+        .cat-pill-count {
+          font-size: 11px;
+        }
         .search-wrap {
+          grid-column: 1;
           min-width: 0;
           width: 100%;
-          order: -1;
+        }
+        input[type="search"],
+        select {
+          font-size: 16px;
         }
         select {
-          width: 100%;
+          grid-column: 2;
+          width: auto;
+          max-width: 148px;
+          padding-left: 10px;
+          padding-right: 26px;
+        }
+        .grid {
+          padding: 20px 16px 72px;
+          grid-template-columns: 1fr;
+          gap: 16px;
+        }
+        .card-body {
+          padding: 20px 20px 0;
+        }
+        .card-footer {
+          padding: 12px 20px;
         }
         .footer-inner {
           flex-direction: column;
