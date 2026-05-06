@@ -197,7 +197,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPod"
     ]
   },
   {
@@ -356,7 +357,8 @@
     ],
     "cats": [
       "Software",
-      "Feature"
+      "Feature",
+      "TV"
     ]
   },
   {
@@ -514,7 +516,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPod"
     ]
   },
   {
@@ -581,7 +584,8 @@
     ],
     "cats": [
       "Feature",
-      "Hardware"
+      "Hardware",
+      "iPhone"
     ]
   },
   {
@@ -633,7 +637,9 @@
       }
     ],
     "cats": [
-      "Feature"
+      "Feature",
+      "iPhone",
+      "iPad"
     ]
   },
   {
@@ -649,7 +655,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPod"
     ]
   },
   {
@@ -665,7 +672,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPod"
     ]
   },
   {
@@ -802,7 +810,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "TV"
     ]
   },
   {
@@ -839,7 +848,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPod"
     ]
   },
   {
@@ -895,7 +905,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPhone"
     ]
   },
   {
@@ -906,7 +917,8 @@
     "died": 1994,
     "cats": [
       "Mac",
-      "Hardware"
+      "Hardware",
+      "TV"
     ]
   },
   {
@@ -1008,7 +1020,10 @@
     ],
     "cats": [
       "Feature",
-      "Hardware"
+      "Hardware",
+      "iPhone",
+      "iPad",
+      "iPod"
     ]
   },
   {
@@ -1057,7 +1072,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "TV"
     ]
   },
   {
@@ -1101,7 +1117,8 @@
     ],
     "cats": [
       "Feature",
-      "Hardware"
+      "Hardware",
+      "iPhone"
     ]
   },
   {
@@ -1128,7 +1145,8 @@
     "born": 2016,
     "died": 2020,
     "cats": [
-      "Software"
+      "Software",
+      "TV"
     ]
   },
   {
@@ -1189,7 +1207,9 @@
     ],
     "cats": [
       "Feature",
-      "Hardware"
+      "Hardware",
+      "iPhone",
+      "iPad"
     ]
   },
   {
@@ -1199,7 +1219,9 @@
     "born": 2017,
     "died": 2019,
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPhone",
+      "Apple Watch"
     ]
   },
   {
@@ -1332,7 +1354,8 @@
     "born": 2006,
     "died": 2007,
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPod"
     ]
   },
   {
@@ -1348,7 +1371,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPhone"
     ]
   },
   {
@@ -1364,7 +1388,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPhone"
     ]
   },
   {
@@ -1380,7 +1405,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPhone"
     ]
   },
   {
@@ -1400,7 +1426,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPhone"
     ]
   },
   {
@@ -1420,7 +1447,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "Apple Watch"
     ]
   },
   {
@@ -1700,7 +1728,8 @@
     ],
     "cats": [
       "Feature",
-      "Hardware"
+      "Hardware",
+      "iPad"
     ]
   },
   {
@@ -1917,7 +1946,8 @@
       }
     ],
     "cats": [
-      "Hardware"
+      "Hardware",
+      "Apple Watch"
     ]
   },
   {
@@ -1927,7 +1957,8 @@
     "born": 2021,
     "died": 2023,
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPhone"
     ]
   },
   {
@@ -1937,7 +1968,9 @@
     "born": 2020,
     "died": 2023,
     "cats": [
-      "Hardware"
+      "Hardware",
+      "iPhone",
+      "Apple Watch"
     ]
   },
   {

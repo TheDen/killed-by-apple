@@ -26,6 +26,7 @@ Add, remove, or update entries in `products.json`. Each item uses this shape:
 Use `cats` for one or more categories. Examples:
 
 - Mac hardware should usually include both `"Mac"` and `"Hardware"`.
+- Family categories like `"iPhone"`, `"iPad"`, `"iPod"`, `"Apple Watch"`, and `"TV"` should only be added when the item is clearly part of that product ecosystem.
 - Cloud-backed capabilities can span `"Service"` and `"Feature"`.
 - Standalone apps that were really fronts for online systems can span `"Software"` and `"Service"`.
 - Physical interfaces and built-in hardware capabilities can span `"Feature"` and `"Hardware"`.
