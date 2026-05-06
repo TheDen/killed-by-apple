@@ -40,6 +40,24 @@
     "cats": ["Hardware"]
   },
   {
+    "name": "Power Macintosh G3",
+    "icon": "🗄️",
+    "desc": "Apple's first G3 desktop line, spanning the beige minitowers and the later blue-and-white tower that dragged the pro Mac into the USB era. It briefly gave Apple a speed story again, then vanished when the G4 arrived with faster graphics and a louder marketing machine.",
+    "born": 1997,
+    "died": 1999,
+    "refs": [
+      {
+        "label": "Apple support specs",
+        "url": "https://support.apple.com/en-us/112279"
+      },
+      {
+        "label": "Power Mac G4 successor specs",
+        "url": "https://support.apple.com/en-euro/112296"
+      }
+    ],
+    "cats": ["Mac", "Hardware"]
+  },
+  {
     "name": "AirPort Base Station (Graphite)",
     "icon": "📡",
     "desc": "The original flying-saucer Wi-Fi base station Apple launched with the iBook, complete with a built-in 56K modem and 10BASE-T Ethernet. It helped kick-start mainstream Wi-Fi before Apple replaced it with a more capable second-generation model.",
@@ -92,6 +110,24 @@
       }
     ],
     "cats": ["Service"]
+  },
+  {
+    "name": "Macintosh Server G4",
+    "icon": "🖥️",
+    "desc": "Apple's pre-Xserve tower server, essentially a Power Mac G4 sold with AppleShare IP or Mac OS X Server for schools and workgroups. It was Apple's last server before the company finally built a proper rackmount machine.",
+    "born": 2001,
+    "died": 2002,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2001/05/21Apple-Introduces-Mac-OS-X-Server/"
+      },
+      {
+        "label": "Xserve replacement",
+        "url": "https://www.apple.com/newsroom/2002/05/14Apple-Introduces-Xserve-1U-Rack-Mount-Server/"
+      }
+    ],
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "Cinema Tools",
@@ -223,6 +259,24 @@
       {
         "label": "Wireless Mighty Mouse replacement",
         "url": "https://www.apple.com/newsroom/2006/07/25Apple-Debuts-Wireless-Mighty-Mouse/"
+      }
+    ],
+    "cats": ["Hardware"]
+  },
+  {
+    "name": "Apple Wireless Keyboard",
+    "icon": "⌨️",
+    "desc": "Apple's long-running Bluetooth desktop keyboard line, from the chunky white full-size model to the slim aluminum version that shipped with iMacs for years. It finally lost its name when Apple rebooted the accessory lineup as Magic Keyboard.",
+    "born": 2003,
+    "died": 2015,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2003/09/16Apple-Introduces-Wireless-Keyboard-Mouse/"
+      },
+      {
+        "label": "Magic Keyboard successor",
+        "url": "https://www.apple.com/newsroom/2015/10/13Apple-Updates-iMac-Family-with-Stunning-New-Retina-Displays/"
       }
     ],
     "cats": ["Hardware"]
@@ -1245,6 +1299,28 @@
       {
         "label": "Apple launch",
         "url": "https://www.apple.com/newsroom/2005/08/02Apple-Introduces-Mighty-Mouse/"
+      },
+      {
+        "label": "Magic Mouse replacement",
+        "url": "https://www.apple.com/newsroom/2009/10/20Apple-Introduces-Magic-Mouse-The-Worlds-First-Multi-Touch-Mouse/"
+      }
+    ],
+    "cats": ["Hardware"]
+  },
+  {
+    "name": "Wireless Mighty Mouse",
+    "icon": "🖱️",
+    "desc": "The cordless version of Apple's tiny-scroll-ball mouse, built for the pre-Magic Mouse era of AA batteries and Bluetooth desktops. It only lasted three years before Apple junked the scroll ball and switched to a touch surface.",
+    "born": 2006,
+    "died": 2009,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2006/07/25Apple-Debuts-Wireless-Mighty-Mouse/"
+      },
+      {
+        "label": "Magic Mouse replacement",
+        "url": "https://www.apple.com/newsroom/2009/10/20Apple-Introduces-Magic-Mouse-The-Worlds-First-Multi-Touch-Mouse/"
       }
     ],
     "cats": ["Hardware"]
