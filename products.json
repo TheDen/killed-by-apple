@@ -350,5 +350,165 @@
     "desc": "Apple's last affordable iPhone — and the last iPhone with a Home button and Touch ID. Quietly discontinued as Apple consolidated its lineup around Face ID.",
     "born": 2022,
     "died": 2024
+  },
+  {
+    "name": "Macintosh TV",
+    "cat": "Mac",
+    "icon": "📺",
+    "desc": "A Mac LC 520 in a black case with a built-in TV tuner — Apple's first attempt at merging computing and television. Only 10,000 units were ever made and it was never sold outside the US.",
+    "born": 1993,
+    "died": 1994
+  },
+  {
+    "name": "eMate 300",
+    "cat": "Hardware",
+    "icon": "💻",
+    "desc": "A Newton-powered clamshell laptop built for students, with an integrated keyboard and weeks of battery life. Killed alongside the Newton when Steve Jobs returned.",
+    "born": 1997,
+    "died": 1998
+  },
+  {
+    "name": "AppleWorks",
+    "cat": "Software",
+    "icon": "📄",
+    "desc": "Apple's bundled office suite, born as ClarisWorks in 1991. For 16 years it was the word processor and spreadsheet for millions of Mac and Apple II users. Retired when iWork arrived.",
+    "born": 1991,
+    "died": 2007
+  },
+  {
+    "name": ".Mac",
+    "cat": "Service",
+    "icon": "☁️",
+    "desc": "The paid successor to iTools: @mac.com email, iDisk cloud storage, and online sync for $99/year. Frequently unreliable. Rebranded as the even more unreliable MobileMe.",
+    "born": 2002,
+    "died": 2008
+  },
+  {
+    "name": "iSync",
+    "cat": "Software",
+    "icon": "🔄",
+    "desc": "A Mac utility for syncing contacts, calendars, and bookmarks across Macs, phones, and iPods over Bluetooth or USB. Essential before iCloud made the whole idea obsolete.",
+    "born": 2002,
+    "died": 2010
+  },
+  {
+    "name": "eMac",
+    "cat": "Mac",
+    "icon": "🖥️",
+    "desc": "An education-focused all-in-one Mac built around a 17-inch CRT. Initially sold only to schools, briefly offered to consumers. The last Mac ever shipped with a cathode-ray tube.",
+    "born": 2002,
+    "died": 2005
+  },
+  {
+    "name": "iSight",
+    "cat": "Hardware",
+    "icon": "📹",
+    "desc": "Apple's sleek external FireWire webcam — aluminum, cylindrical, perfectly designed. Made obsolete when Apple built cameras into every Mac and display it sold.",
+    "born": 2003,
+    "died": 2008
+  },
+  {
+    "name": "30-pin Dock Connector",
+    "cat": "Feature",
+    "icon": "🔌",
+    "desc": "The wide 30-pin connector used on every iPod and iPhone for nine years. It spawned an entire accessories industry — alarm clocks, car adapters, speaker docks. Killed overnight by Lightning.",
+    "born": 2003,
+    "died": 2012
+  },
+  {
+    "name": "WebObjects",
+    "cat": "Software",
+    "icon": "🌐",
+    "desc": "A powerful web application server born at NeXT that Apple used to run the iTunes Store. Quietly deprecated in 2016 with no migration path for the enterprise customers who relied on it.",
+    "born": 1996,
+    "died": 2016
+  },
+  {
+    "name": "Game Center",
+    "cat": "Service",
+    "icon": "🏆",
+    "desc": "Apple's social gaming network with achievements, leaderboards, and multiplayer matchmaking. The standalone app was silently removed in iOS 10 — Apple's quiet admission that no one used it.",
+    "born": 2010,
+    "died": 2016
+  },
+  {
+    "name": "Apple TV (3rd gen)",
+    "cat": "Hardware",
+    "icon": "📺",
+    "desc": "The streaming set-top box that never got an App Store. It played video and little else. Quietly discontinued once the 4th-gen Apple TV finally delivered the platform Jobs had promised for years.",
+    "born": 2012,
+    "died": 2015
+  },
+  {
+    "name": "iTunes Radio",
+    "cat": "Service",
+    "icon": "📻",
+    "desc": "Apple's free ad-supported streaming radio service, built into iTunes and iOS. A direct Pandora rival — folded into Apple Music within three years without so much as a goodbye.",
+    "born": 2013,
+    "died": 2016
+  },
+  {
+    "name": "Newsstand",
+    "cat": "Software",
+    "icon": "🗞️",
+    "desc": "A dedicated iOS app folder for digital magazine and newspaper subscriptions. Publishers barely supported it; readers rarely opened it. Removed in iOS 9 and absorbed into Apple News.",
+    "born": 2011,
+    "died": 2015
+  },
+  {
+    "name": "3D Touch",
+    "cat": "Feature",
+    "icon": "👆",
+    "desc": "Pressure-sensitive display tech enabling Peek, Pop, and shortcut menus based on press force. Quietly dropped from the iPhone XR in 2018, abandoned entirely with the iPhone 11.",
+    "born": 2015,
+    "died": 2019
+  },
+  {
+    "name": "Mac Pro (Trash Can)",
+    "cat": "Mac",
+    "icon": "🗑️",
+    "desc": "The radical cylindrical Mac Pro — striking to look at, thermally compromised inside. Apple went six years without an update and publicly admitted they had \"painted themselves into a corner.\"",
+    "born": 2013,
+    "died": 2019
+  },
+  {
+    "name": "Remote (iOS app)",
+    "cat": "Software",
+    "icon": "📱",
+    "desc": "Apple's official app for controlling iTunes and Apple TV from an iPhone. Downloaded by millions and used daily for over a decade. Silently pulled from the App Store in 2021.",
+    "born": 2008,
+    "died": 2021
+  },
+  {
+    "name": "Dashboard",
+    "cat": "Software",
+    "icon": "🪟",
+    "desc": "macOS's dedicated layer of mini-apps called widgets, accessed with a keystroke. Groundbreaking in 2004, a memory hog by 2014, and finally removed in macOS Monterey after 17 years of neglect.",
+    "born": 2004,
+    "died": 2021
+  },
+  {
+    "name": "Network Utility",
+    "cat": "Software",
+    "icon": "🔧",
+    "desc": "A Mac app for network diagnostics — ping, traceroute, port scanning, Whois lookups. A staple for sysadmins and power users for over 20 years. Removed from macOS Monterey without any warning.",
+    "born": 1999,
+    "died": 2021
+  },
+  {
+    "name": "Touch Bar",
+    "cat": "Feature",
+    "icon": "⌨️",
+    "desc": "The OLED strip that replaced the function key row on MacBook Pros. A programmable, context-sensitive control surface that most users ignored, most developers never supported, and Apple quietly dropped.",
+    "born": 2016,
+    "died": 2022
+  },
+  {
+    "name": "Lightning Connector",
+    "cat": "Feature",
+    "icon": "⚡",
+    "desc": "Apple's slim, reversible 8-pin connector, used on every iPhone for over a decade. Replaced by USB-C in 2023 after EU regulations made proprietary connectors legally untenable.",
+    "born": 2012,
+    "died": 2023
   }
 ]
