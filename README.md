@@ -32,3 +32,14 @@ Use `cats` for one or more categories. Examples:
 - Physical interfaces and built-in hardware capabilities can span `"Feature"` and `"Hardware"`.
 
 `refs` is optional. Use it for launch announcements, support notes, replacement announcements, or other source material for why the product ended.
+
+## Contributing
+
+Contributions should be submitted as GitHub pull requests.
+
+1. Fork the repository on GitHub.
+2. Create a branch for your change.
+3. Update `products.json` and any related docs.
+4. Open a pull request against [`TheDen/killed-by-apple`](https://github.com/TheDen/killed-by-apple).
+
+When adding or changing entries, prefer official Apple references where possible, and leave `refs` empty rather than guessing.

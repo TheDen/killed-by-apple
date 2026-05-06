@@ -5,9 +5,7 @@
     "desc": "Apple's business computer, plagued by overheating and reliability problems after Apple chose silence over a cooling fan. The redesigned Apple III Plus arrived too late to save the line.",
     "born": 1980,
     "died": 1984,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Apple Lisa",
@@ -15,9 +13,7 @@
     "desc": "Apple's first GUI-based business computer at $9,995. Technically remarkable, commercially ruinous, and quickly outclassed and outpriced by the Macintosh.",
     "born": 1983,
     "died": 1986,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Apple QuickTake",
@@ -25,9 +21,7 @@
     "desc": "One of the first consumer digital cameras, made by Fujifilm and sold under Apple's name. Steve Jobs killed the entire product line within weeks of returning to Apple.",
     "born": 1994,
     "died": 1997,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Pippin",
@@ -35,9 +29,7 @@
     "desc": "Apple's multimedia gaming platform co-developed with Bandai. It sold only about 42,000 units worldwide and cost nearly $600 at launch. An ambitious experiment in all the wrong directions.",
     "born": 1996,
     "died": 1997,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Newton MessagePad",
@@ -45,9 +37,7 @@
     "desc": "Apple's pioneering PDA, famous for ambitious handwriting recognition that became a punchline. Steve Jobs canceled the Newton platform in 1998 after returning to Apple.",
     "born": 1993,
     "died": 1998,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "AirPort Base Station (Graphite)",
@@ -65,9 +55,7 @@
         "url": "https://www.apple.com/newsroom/2001/11/13Apple-Announces-Second-Generation-AirPort-Wireless-Networking/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Power Mac G4 Cube",
@@ -85,10 +73,7 @@
         "url": "https://www.apple.com/newsroom/2001/07/03Apple-Puts-Power-Mac-G4-Cube-on-Ice/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "iTools",
@@ -106,9 +91,7 @@
         "url": "https://www.apple.com/newsroom/2002/07/17Apple-Launches-Mac/"
       }
     ],
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "Cinema Tools",
@@ -126,9 +109,7 @@
         "url": "https://www.apple.com/newsroom/2003/04/06Apple-Announces-Final-Cut-Pro-4/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "AirPort Base Station (Dual Ethernet)",
@@ -146,9 +127,7 @@
         "url": "https://www.apple.com/newsroom/2003/01/07Apple-Delivers-AirPort-Extreme-802-11g-Wireless-Networking/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "AirPort Card",
@@ -166,9 +145,7 @@
         "url": "https://www.apple.com/newsroom/2003/01/07Apple-Delivers-AirPort-Extreme-802-11g-Wireless-Networking/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "HyperCard",
@@ -176,9 +153,7 @@
     "desc": "A revolutionary hypermedia and scripting environment that predated and inspired the World Wide Web. Quietly abandoned, then left to wither for a decade before being killed entirely.",
     "born": 1987,
     "died": 2004,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "iPod mini",
@@ -196,10 +171,7 @@
         "url": "https://www.apple.com/newsroom/2005/02/23Apple-Unveils-New-iPod-mini-Starting-at-Just-199/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPod"
-    ]
+    "cats": ["Hardware", "iPod"]
   },
   {
     "name": "Soundtrack",
@@ -217,9 +189,7 @@
         "url": "https://www.apple.com/newsroom/2005/04/17Apple-Unveils-Final-Cut-Studio/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Production Suite",
@@ -237,9 +207,7 @@
         "url": "https://www.apple.com/newsroom/2005/04/17Apple-Unveils-Final-Cut-Studio/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Apple Wireless Mouse",
@@ -257,9 +225,7 @@
         "url": "https://www.apple.com/newsroom/2006/07/25Apple-Debuts-Wireless-Mighty-Mouse/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Xserve RAID",
@@ -277,9 +243,7 @@
         "url": "https://www.macworld.com/article/189408/raid-11.html"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Shake",
@@ -293,9 +257,7 @@
         "url": "https://www.apple.com/newsroom/2002/07/22Apple-Announces-Shake-2-5-for-Mac-OS-X/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Final Cut Studio",
@@ -313,9 +275,7 @@
         "url": "https://www.apple.com/newsroom/2011/06/21Apple-Revolutionizes-Video-Editing-With-Final-Cut-Pro-X/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Apple Cinema Display",
@@ -323,9 +283,7 @@
     "desc": "Apple's widescreen external monitors, beloved by designers and video editors. The Cinema Display line was replaced by the Thunderbolt Display in 2011.",
     "born": 1999,
     "died": 2011,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Final Cut Server",
@@ -339,9 +297,7 @@
         "url": "https://www.apple.com/newsroom/2007/04/15Apple-Introduces-Final-Cut-Server/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Front Row",
@@ -355,11 +311,7 @@
         "url": "https://www.apple.com/newsroom/2005/10/12Apple-Introduces-the-New-iMac-G5/"
       }
     ],
-    "cats": [
-      "Software",
-      "Feature",
-      "TV"
-    ]
+    "cats": ["Software", "Feature", "TV"]
   },
   {
     "name": "iDVD",
@@ -373,9 +325,7 @@
         "url": "https://www.apple.com/newsroom/2001/01/09Apple-Brings-DVD-Authoring-to-the-Desktop-with-iDVD-and-DVD-Studio-Pro/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "iWeb",
@@ -389,9 +339,7 @@
         "url": "https://www.apple.com/newsroom/2006/01/10Apple-Announces-iLife-06/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Logic Express",
@@ -405,9 +353,7 @@
         "url": "https://www.apple.com/newsroom/2004/09/29Apple-Introduces-Logic-Pro-7-Logic-Express-7/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Rosetta",
@@ -425,10 +371,7 @@
         "url": "https://support.apple.com/en-us/112027"
       }
     ],
-    "cats": [
-      "Feature",
-      "Software"
-    ]
+    "cats": ["Feature", "Software"]
   },
   {
     "name": "Xserve",
@@ -442,10 +385,7 @@
         "url": "https://www.apple.com/newsroom/2002/05/14Apple-Introduces-Xserve-1U-Rack-Mount-Server/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "iTunes Ping",
@@ -459,9 +399,7 @@
         "url": "https://www.apple.com/newsroom/2010/09/01Apple-Introduces-iTunes-10-With-Ping/"
       }
     ],
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "MobileMe",
@@ -479,9 +417,7 @@
         "url": "https://www.apple.com/newsroom/2011/06/06Apple-Introduces-iCloud/"
       }
     ],
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "Aperture",
@@ -499,9 +435,7 @@
         "url": "https://support.apple.com/photos"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "iPod classic",
@@ -515,10 +449,7 @@
         "url": "https://www.apple.com/newsroom/2007/09/05Apple-Introduces-New-iPod-classic/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPod"
-    ]
+    "cats": ["Hardware", "iPod"]
   },
   {
     "name": "Beats Music",
@@ -536,9 +467,7 @@
         "url": "https://www.apple.com/newsroom/2015/06/08Introducing-Apple-Music-All-The-Ways-You-Love-Music-All-in-One-Place-/"
       }
     ],
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "iPhoto",
@@ -556,9 +485,7 @@
         "url": "https://support.apple.com/photos"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "iAd",
@@ -566,9 +493,7 @@
     "desc": "Apple's mobile advertising platform. Steve Jobs said it would \"reinvent\" mobile advertising. It never seriously challenged Google, and Apple shut the network down after six quiet years.",
     "born": 2010,
     "died": 2016,
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "iPhone Headphone Jack",
@@ -582,11 +507,7 @@
         "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-iphone-7-iphone-7-plus/"
       }
     ],
-    "cats": [
-      "Feature",
-      "Hardware",
-      "iPhone"
-    ]
+    "cats": ["Feature", "Hardware", "iPhone"]
   },
   {
     "name": "QuickTime for Windows",
@@ -600,9 +521,7 @@
         "url": "https://support.apple.com/en-us/106375"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Thunderbolt Display",
@@ -620,9 +539,7 @@
         "url": "https://support.apple.com/en-us/112597"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "32-bit iOS App Support",
@@ -636,11 +553,7 @@
         "url": "https://developer.apple.com/news/?id=06282017b"
       }
     ],
-    "cats": [
-      "Feature",
-      "iPhone",
-      "iPad"
-    ]
+    "cats": ["Feature", "iPhone", "iPad"]
   },
   {
     "name": "iPod nano",
@@ -654,10 +567,7 @@
         "url": "https://www.apple.com/newsroom/2005/09/07Apple-Introduces-iPod-nano/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPod"
-    ]
+    "cats": ["Hardware", "iPod"]
   },
   {
     "name": "iPod shuffle",
@@ -671,10 +581,7 @@
         "url": "https://www.apple.com/newsroom/2005/01/11Apple-Introduces-iPod-shuffle/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPod"
-    ]
+    "cats": ["Hardware", "iPod"]
   },
   {
     "name": "AirPort Express",
@@ -688,9 +595,7 @@
         "url": "https://www.apple.com/newsroom/2008/03/17Apple-Introduces-New-AirPort-Express-with-802-11n/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "AirPort Extreme",
@@ -704,9 +609,7 @@
         "url": "https://www.apple.com/newsroom/2003/01/07Apple-Delivers-AirPort-Extreme-802-11g-Wireless-Networking/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Time Capsule",
@@ -720,9 +623,7 @@
         "url": "https://www.apple.com/newsroom/2008/01/15Apple-Announces-Time-Capsule/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "iTunes",
@@ -736,9 +637,7 @@
         "url": "https://www.apple.com/newsroom/2019/06/apple-previews-macos-catalina/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "MacBook (12-inch)",
@@ -752,10 +651,7 @@
         "url": "https://support.apple.com/en-us/111986"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "32-bit macOS App Support",
@@ -773,9 +669,7 @@
         "url": "https://support.apple.com/en-mide/103076"
       }
     ],
-    "cats": [
-      "Feature"
-    ]
+    "cats": ["Feature"]
   },
   {
     "name": "Texture",
@@ -789,9 +683,7 @@
         "url": "https://www.apple.com/newsroom/2018/03/apple-to-acquire-digital-magazine-service-texture/"
       }
     ],
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "Apple Remote",
@@ -809,10 +701,7 @@
         "url": "https://support.apple.com/en-us/102337"
       }
     ],
-    "cats": [
-      "Hardware",
-      "TV"
-    ]
+    "cats": ["Hardware", "TV"]
   },
   {
     "name": "iTunes U",
@@ -826,10 +715,7 @@
         "url": "https://www.apple.com/newsroom/2007/05/30Apple-Announces-iTunes-U-on-the-iTunes-Store/"
       }
     ],
-    "cats": [
-      "Service",
-      "Software"
-    ]
+    "cats": ["Service", "Software"]
   },
   {
     "name": "iPod touch",
@@ -847,10 +733,7 @@
         "url": "https://www.apple.com/newsroom/2019/05/new-ipod-touch-delivers-even-greater-performance/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPod"
-    ]
+    "cats": ["Hardware", "iPod"]
   },
   {
     "name": "macOS Server",
@@ -864,9 +747,7 @@
         "url": "https://support.apple.com/en-us/101601"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "HomePod (1st gen)",
@@ -884,9 +765,7 @@
         "url": "https://www.apple.com/newsroom/2023/01/apple-introduces-the-new-homepod-with-breakthrough-sound-and-intelligence/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "iPhone SE (3rd gen)",
@@ -904,10 +783,7 @@
         "url": "https://www.apple.com/es/newsroom/2025/02/apple-debuts-iphone-16e-a-powerful-new-member-of-the-iphone-16-family/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPhone"
-    ]
+    "cats": ["Hardware", "iPhone"]
   },
   {
     "name": "Macintosh TV",
@@ -915,11 +791,7 @@
     "desc": "A Mac LC 520 in a black case with a built-in TV tuner, and Apple's first attempt at merging computing and television. Only 10,000 units were ever made and it was never sold outside the US.",
     "born": 1993,
     "died": 1994,
-    "cats": [
-      "Mac",
-      "Hardware",
-      "TV"
-    ]
+    "cats": ["Mac", "Hardware", "TV"]
   },
   {
     "name": "eMate 300",
@@ -927,9 +799,7 @@
     "desc": "A Newton-powered clamshell laptop built for students, with an integrated keyboard and weeks of battery life. Killed alongside the Newton when Steve Jobs returned.",
     "born": 1997,
     "died": 1998,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "AppleWorks",
@@ -943,9 +813,7 @@
         "url": "https://www.apple.com/newsroom/2000/01/05Apple-Introduces-AppleWorks-6/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": ".Mac",
@@ -953,9 +821,7 @@
     "desc": "The paid successor to iTools: @mac.com email, iDisk cloud storage, and online sync for $99/year. Frequently unreliable. Rebranded as the even more unreliable MobileMe.",
     "born": 2002,
     "died": 2008,
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "iSync",
@@ -969,9 +835,7 @@
         "url": "https://www.apple.com/newsroom/2002/07/17Apple-Introduces-iSync/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "eMac",
@@ -985,10 +849,7 @@
         "url": "https://www.apple.com/newsroom/2002/04/29Apple-Unveils-New-eMac-for-Education/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "iSight",
@@ -1002,9 +863,7 @@
         "url": "https://www.apple.com/newsroom/2003/06/23Apple-Introduces-iChat-AV-and-iSight/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "30-pin Dock Connector",
@@ -1018,13 +877,7 @@
         "url": "https://www.apple.com/newsroom/2012/09/12Apple-Introduces-iPhone-5/"
       }
     ],
-    "cats": [
-      "Feature",
-      "Hardware",
-      "iPhone",
-      "iPad",
-      "iPod"
-    ]
+    "cats": ["Feature", "Hardware", "iPhone", "iPad", "iPod"]
   },
   {
     "name": "WebObjects",
@@ -1038,9 +891,7 @@
         "url": "https://www.apple.com/newsroom/2000/03/01Apple-Delivers-WebObjects-4-5/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Game Center app",
@@ -1054,10 +905,7 @@
         "url": "https://www.apple.com/newsroom/2010/09/01Apple-Introduces-New-iPod-touch/"
       }
     ],
-    "cats": [
-      "Software",
-      "Service"
-    ]
+    "cats": ["Software", "Service"]
   },
   {
     "name": "Apple TV (3rd gen)",
@@ -1071,10 +919,7 @@
         "url": "https://support.apple.com/kb/SP648"
       }
     ],
-    "cats": [
-      "Hardware",
-      "TV"
-    ]
+    "cats": ["Hardware", "TV"]
   },
   {
     "name": "iTunes Radio",
@@ -1088,9 +933,7 @@
         "url": "https://www.apple.com/newsroom/2013/06/10Apple-Announces-iTunes-Radio/"
       }
     ],
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "Newsstand",
@@ -1098,10 +941,7 @@
     "desc": "A dedicated iOS app folder for digital magazine and newspaper subscriptions. Publishers barely supported it; readers rarely opened it. Removed in iOS 9 and absorbed into Apple News.",
     "born": 2011,
     "died": 2015,
-    "cats": [
-      "Software",
-      "Feature"
-    ]
+    "cats": ["Software", "Feature"]
   },
   {
     "name": "3D Touch",
@@ -1115,11 +955,7 @@
         "url": "https://www.apple.com/newsroom/2015/09/09Apple-Introduces-iPhone-6s-iPhone-6s-Plus/"
       }
     ],
-    "cats": [
-      "Feature",
-      "Hardware",
-      "iPhone"
-    ]
+    "cats": ["Feature", "Hardware", "iPhone"]
   },
   {
     "name": "Mac Pro (Trash Can)",
@@ -1133,10 +969,7 @@
         "url": "https://www.apple.com/newsroom/2013/10/23Introducing-the-All-New-Mac-Pro-The-Most-Radical-Mac-Ever/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "Apple TV Remote app",
@@ -1144,10 +977,7 @@
     "desc": "Apple's official iPhone and iPad app for controlling Apple TV. Pulled from the App Store after Apple moved the remote into Control Center.",
     "born": 2016,
     "died": 2020,
-    "cats": [
-      "Software",
-      "TV"
-    ]
+    "cats": ["Software", "TV"]
   },
   {
     "name": "Dashboard",
@@ -1161,10 +991,7 @@
         "url": "https://www.apple.com/newsroom/2004/06/28Apple-Previews-Mac-OS-X-Tiger/"
       }
     ],
-    "cats": [
-      "Software",
-      "Feature"
-    ]
+    "cats": ["Software", "Feature"]
   },
   {
     "name": "Network Utility",
@@ -1172,9 +999,7 @@
     "desc": "A Mac app for network diagnostics: ping, traceroute, port scanning, Whois lookups. A staple for sysadmins and power users, deprecated in macOS Big Sur.",
     "born": 2001,
     "died": 2020,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Touch Bar",
@@ -1188,10 +1013,7 @@
         "url": "https://www.apple.com/newsroom/2016/10/apple-unveils-groundbreaking-new-macbook-pro/"
       }
     ],
-    "cats": [
-      "Feature",
-      "Hardware"
-    ]
+    "cats": ["Feature", "Hardware"]
   },
   {
     "name": "Lightning Connector",
@@ -1205,12 +1027,7 @@
         "url": "https://www.apple.com/newsroom/2012/09/12Apple-Introduces-iPhone-5/"
       }
     ],
-    "cats": [
-      "Feature",
-      "Hardware",
-      "iPhone",
-      "iPad"
-    ]
+    "cats": ["Feature", "Hardware", "iPhone", "iPad"]
   },
   {
     "name": "AirPower",
@@ -1218,11 +1035,7 @@
     "desc": "Apple's wireless charging mat, announced in 2017 to charge iPhone, AirPods, and Apple Watch at once from almost any position. Canceled in 2019 after Apple said it could not meet its own standards.",
     "born": 2017,
     "died": 2019,
-    "cats": [
-      "Hardware",
-      "iPhone",
-      "Apple Watch"
-    ]
+    "cats": ["Hardware", "iPhone", "Apple Watch"]
   },
   {
     "name": "iMac G3",
@@ -1236,10 +1049,7 @@
         "url": "https://www.apple.com/ca/fr/press/1998/05/iMac.html"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "iMac G4",
@@ -1253,10 +1063,7 @@
         "url": "https://www.apple.com/newsroom/2002/01/07Apple-Unveils-the-New-iMac/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "iBook",
@@ -1274,10 +1081,7 @@
         "url": "https://www.apple.com/newsroom/2006/05/16Apple-Unveils-New-MacBook-Featuring-Intel-Core-Duo-Processors/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "Power Mac G5",
@@ -1295,10 +1099,7 @@
         "url": "https://www.apple.com/newsroom/2006/08/07Apple-Unveils-New-Mac-Pro-Featuring-Quad-64-bit-Xeon-Processors/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "PowerBook",
@@ -1316,10 +1117,7 @@
         "url": "https://www.apple.com/newsroom/2006/04/24Apple-Introduces-17-inch-MacBook-Pro/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "Hockey Puck Mouse",
@@ -1327,9 +1125,7 @@
     "desc": "The round USB mouse that shipped with the original iMac G3. Impossible to orient by feel and hated by every reviewer who touched it. Replaced within two years by the Apple Pro Mouse and remembered as a cautionary tale in industrial design.",
     "born": 1998,
     "died": 2000,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Mighty Mouse",
@@ -1343,9 +1139,7 @@
         "url": "https://www.apple.com/newsroom/2005/08/02Apple-Introduces-Mighty-Mouse/"
       }
     ],
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "iPod Hi-Fi",
@@ -1353,10 +1147,7 @@
     "desc": "Apple's $349 boombox speaker dock for the iPod, personally championed by Steve Jobs at its launch as audiophile-quality. Discontinued 18 months later as the rest of the speaker industry caught up and sold the same thing for less.",
     "born": 2006,
     "died": 2007,
-    "cats": [
-      "Hardware",
-      "iPod"
-    ]
+    "cats": ["Hardware", "iPod"]
   },
   {
     "name": "Smart Battery Case",
@@ -1370,10 +1161,7 @@
         "url": "https://support.apple.com/en-us/101208"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPhone"
-    ]
+    "cats": ["Hardware", "iPhone"]
   },
   {
     "name": "iPhone 5c",
@@ -1387,10 +1175,7 @@
         "url": "https://www.apple.com/newsroom/2013/09/10Apple-Introduces-iPhone-5c-The-Most-Colorful-iPhone-Yet/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPhone"
-    ]
+    "cats": ["Hardware", "iPhone"]
   },
   {
     "name": "iPhone X",
@@ -1404,10 +1189,7 @@
         "url": "https://www.apple.com/newsroom/2017/09/the-future-is-here-iphone-x/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPhone"
-    ]
+    "cats": ["Hardware", "iPhone"]
   },
   {
     "name": "iPhone 13 mini",
@@ -1425,10 +1207,7 @@
         "url": "https://www.apple.com/newsroom/2023/09/apple-debuts-iphone-15-and-iphone-15-plus/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "iPhone"
-    ]
+    "cats": ["Hardware", "iPhone"]
   },
   {
     "name": "Apple Watch (Series 0)",
@@ -1446,10 +1225,7 @@
         "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-apple-watch-series-2/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "Apple Watch"
-    ]
+    "cats": ["Hardware", "Apple Watch"]
   },
   {
     "name": "Sherlock",
@@ -1457,9 +1233,7 @@
     "desc": "The system search tool in Mac OS that hunted across local files, the web, and online databases. Replaced by Spotlight in 2005 and remembered as the origin of 'sherlocked', the verb for when Apple kills a third-party app by building its features in.",
     "born": 1998,
     "died": 2005,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "iChat",
@@ -1467,9 +1241,7 @@
     "desc": "Apple's instant messaging client, supporting AIM, Jabber, and Bonjour. The colorful chat bubbles became iconic before iChat was rebranded as Messages and folded into iMessage in OS X Mountain Lion.",
     "born": 2002,
     "died": 2012,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Safari for Windows",
@@ -1477,9 +1249,7 @@
     "desc": "Apple's attempt to bring Safari to Windows, announced by Steve Jobs as part of his iPhone web strategy. It was quietly abandoned after Safari 5.1.7 in 2012, while Mac Safari continued on.",
     "born": 2007,
     "died": 2012,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Mac OS 9",
@@ -1487,9 +1257,7 @@
     "desc": "The final version of the classic Mac OS, foundation of Apple computing for 18 years. Steve Jobs literally held a funeral for it on stage at WWDC 2002, complete with eulogy, organ music, and an open coffin.",
     "born": 1999,
     "died": 2002,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "OpenDoc",
@@ -1497,9 +1265,7 @@
     "desc": "Apple's ambitious component-based document framework, designed to replace monolithic apps with modular parts. Steve Jobs killed it soon after returning to Apple in 1997, calling it a distraction.",
     "born": 1992,
     "died": 1997,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "AppleTalk",
@@ -1507,10 +1273,7 @@
     "desc": "The networking protocol that let any Mac on a LocalTalk cable share files and printers with zero configuration. Phased out in macOS Snow Leopard after 24 years, as Apple standardized on TCP/IP and Bonjour.",
     "born": 1985,
     "died": 2009,
-    "cats": [
-      "Feature",
-      "Software"
-    ]
+    "cats": ["Feature", "Software"]
   },
   {
     "name": "iTunes Festival",
@@ -1518,9 +1281,7 @@
     "desc": "Apple's annual month-long free concert series at London's Roundhouse, featuring artists from Adele to Pharrell streamed live to iTunes users. Renamed Apple Music Festival in 2015 and quietly ended after the 2016 season.",
     "born": 2007,
     "died": 2017,
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "Photo Stream",
@@ -1528,10 +1289,7 @@
     "desc": "Apple's free photo sync service that automatically pushed the last 1,000 photos to all your Apple devices for 30 days. Replaced by iCloud Photos and finally shut down in 2023 after running quietly in the background for 12 years.",
     "born": 2011,
     "died": 2023,
-    "cats": [
-      "Service",
-      "Feature"
-    ]
+    "cats": ["Service", "Feature"]
   },
   {
     "name": "FireWire",
@@ -1539,10 +1297,7 @@
     "desc": "Apple's high-speed serial bus for digital video and audio professionals. Faster than USB at launch, eventually beaten by cheaper USB and Thunderbolt, and gone from the last Mac with built-in FireWire by 2016.",
     "born": 1999,
     "died": 2016,
-    "cats": [
-      "Feature",
-      "Hardware"
-    ]
+    "cats": ["Feature", "Hardware"]
   },
   {
     "name": "MagSafe (laptop)",
@@ -1550,10 +1305,7 @@
     "desc": "The magnetic power connector that detached harmlessly when someone tripped over the cable, saving countless MacBooks from broken ports. Removed in 2016 for USB-C, then restored on MacBook Pro five years later.",
     "born": 2006,
     "died": 2016,
-    "cats": [
-      "Feature",
-      "Hardware"
-    ]
+    "cats": ["Feature", "Hardware"]
   },
   {
     "name": "eWorld",
@@ -1561,9 +1313,7 @@
     "desc": "Apple's cheerful AOL rival, built around a cartoon town of email, forums, news, and downloads. It was Mac-only, expensive, barely marketed, and shut down with only a fraction of AOL's audience.",
     "born": 1994,
     "died": 1996,
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "Cyberdog",
@@ -1571,9 +1321,7 @@
     "desc": "Apple's OpenDoc-based internet suite with a web browser, email, news, FTP, and address book components. When OpenDoc was killed, Cyberdog was abandoned with it.",
     "born": 1996,
     "died": 1997,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "A/UX",
@@ -1581,9 +1329,7 @@
     "desc": "Apple's first official Unix operating system, blending UNIX System V with a familiar Macintosh interface. It gave Apple a credible enterprise Unix story years before Mac OS X, then vanished without a successor.",
     "born": 1988,
     "died": 1995,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Classic Environment",
@@ -1591,10 +1337,7 @@
     "desc": "The compatibility layer that let Mac OS 9 apps run inside early Mac OS X. It kept old software alive through the transition, then disappeared in Mac OS X Leopard.",
     "born": 2001,
     "died": 2007,
-    "cats": [
-      "Feature",
-      "Software"
-    ]
+    "cats": ["Feature", "Software"]
   },
   {
     "name": "iWork.com",
@@ -1602,9 +1345,7 @@
     "desc": "Apple's web-based document sharing and commenting service for Pages, Numbers, and Keynote. It never escaped beta, then was shut down as Apple pushed users toward iCloud.",
     "born": 2009,
     "died": 2012,
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "Cards",
@@ -1612,10 +1353,7 @@
     "desc": "An iOS app for designing physical letterpress greeting cards that Apple would print and mail for you. Charming, oddly tactile, and dead less than two years later.",
     "born": 2011,
     "died": 2013,
-    "cats": [
-      "Software",
-      "Service"
-    ]
+    "cats": ["Software", "Service"]
   },
   {
     "name": "iBooks Author",
@@ -1623,9 +1361,7 @@
     "desc": "Apple's Mac app for creating interactive ebooks and textbooks. It once looked like the future of digital publishing, then Apple folded its core features into Pages and pulled the app for new users.",
     "born": 2012,
     "died": 2020,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Clips",
@@ -1633,9 +1369,7 @@
     "desc": "Apple's playful short-form video editor for iPhone and iPad, with captions, filters, stickers, posters, and effects. It outlived several social-video trends before Apple finally stopped updates and downloads.",
     "born": 2017,
     "died": 2025,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Apple Music Voice Plan",
@@ -1653,9 +1387,7 @@
         "url": "https://support.apple.com/en-asia/108385"
       }
     ],
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "iMovie Theater",
@@ -1673,10 +1405,7 @@
         "url": "https://support.apple.com/en-ie/102280"
       }
     ],
-    "cats": [
-      "Feature",
-      "Service"
-    ]
+    "cats": ["Feature", "Service"]
   },
   {
     "name": "Apple Pay Later",
@@ -1694,10 +1423,7 @@
         "url": "https://support.apple.com/apple-pay-later"
       }
     ],
-    "cats": [
-      "Service",
-      "Feature"
-    ]
+    "cats": ["Service", "Feature"]
   },
   {
     "name": "Back to My Mac",
@@ -1705,10 +1431,7 @@
     "desc": "A remote access feature that used iCloud to find and connect to your Macs over the internet. Magical when it worked, mysterious when it didn't, and gone from all macOS versions in 2019.",
     "born": 2007,
     "died": 2019,
-    "cats": [
-      "Feature",
-      "Service"
-    ]
+    "cats": ["Feature", "Service"]
   },
   {
     "name": "Apple SIM",
@@ -1726,11 +1449,7 @@
         "url": "https://support.apple.com/en-us/109037"
       }
     ],
-    "cats": [
-      "Feature",
-      "Hardware",
-      "iPad"
-    ]
+    "cats": ["Feature", "Hardware", "iPad"]
   },
   {
     "name": "Dark Sky",
@@ -1744,10 +1463,7 @@
         "url": "https://support.apple.com/en-lamr/102594"
       }
     ],
-    "cats": [
-      "Service",
-      "Software"
-    ]
+    "cats": ["Service", "Software"]
   },
   {
     "name": "Lala.com",
@@ -1755,9 +1471,7 @@
     "desc": "A cloud music service where users could stream their libraries and buy cheap web-only songs. Apple acquired it in 2009 and shut it down months later, years before Apple Music arrived.",
     "born": 2006,
     "died": 2010,
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "HopStop",
@@ -1765,9 +1479,7 @@
     "desc": "A transit directions app covering hundreds of cities before Apple Maps had serious public transport features. Apple bought it, used the knowledge, then shut it down as Maps gained transit directions.",
     "born": 2005,
     "died": 2015,
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "Chomp",
@@ -1775,9 +1487,7 @@
     "desc": "An app search and discovery engine that helped users find apps by what they did, not just what they were called. Apple acquired it to improve App Store search, then shut the service off.",
     "born": 2009,
     "died": 2012,
-    "cats": [
-      "Service"
-    ]
+    "cats": ["Service"]
   },
   {
     "name": "Find My Friends",
@@ -1795,10 +1505,7 @@
         "url": "https://www.apple.com/newsroom/2019/10/macos-catalina-is-available-today/"
       }
     ],
-    "cats": [
-      "Software",
-      "Service"
-    ]
+    "cats": ["Software", "Service"]
   },
   {
     "name": "Final Cut Express",
@@ -1812,9 +1519,7 @@
         "url": "https://www.apple.com/newsroom/2003/01/07Apple-Unveils-Final-Cut-Express/"
       }
     ],
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Soundtrack Pro",
@@ -1822,9 +1527,7 @@
     "desc": "Apple's professional audio editing and sound design app for video editors. Bundled with Final Cut Studio, then killed when Apple collapsed the old pro video suite.",
     "born": 2005,
     "died": 2011,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "DVD Studio Pro",
@@ -1832,9 +1535,7 @@
     "desc": "High-end DVD authoring software for creating professional menus, masters, and replicated discs. Essential in the DVD era, stranded when Apple decided optical media was over.",
     "born": 2001,
     "died": 2011,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "Color",
@@ -1842,9 +1543,7 @@
     "desc": "A professional color-grading app born from Apple's acquisition of Silicon Color. It brought serious finishing tools to Final Cut Studio, then disappeared in the Final Cut Pro X transition.",
     "born": 2007,
     "died": 2011,
-    "cats": [
-      "Software"
-    ]
+    "cats": ["Software"]
   },
   {
     "name": "iMac Pro",
@@ -1858,10 +1557,7 @@
         "url": "https://www.apple.com/newsroom/2017/06/imac-pro-most-powerful-mac-arrives-december/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "27-inch iMac",
@@ -1879,10 +1575,7 @@
         "url": "https://www.apple.com/newsroom/2020/08/27-inch-imac-gets-a-major-update/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "Mac Pro",
@@ -1890,10 +1583,7 @@
     "desc": "Apple's tower workstation line for professionals who needed maximum expansion and maximum invoices. After years of shrinking relevance beside Mac Studio, Apple finally discontinued the line entirely.",
     "born": 2006,
     "died": 2026,
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "MacBook Air (11-inch)",
@@ -1907,10 +1597,7 @@
         "url": "https://www.apple.com/newsroom/2010/10/20Apple-Reinvents-Notebooks-With-New-MacBook-Air/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "MacBook Pro (17-inch)",
@@ -1924,10 +1611,7 @@
         "url": "https://www.apple.com/newsroom/2006/04/24Apple-Introduces-17-inch-MacBook-Pro/"
       }
     ],
-    "cats": [
-      "Mac",
-      "Hardware"
-    ]
+    "cats": ["Mac", "Hardware"]
   },
   {
     "name": "Apple Watch Edition (gold)",
@@ -1945,10 +1629,7 @@
         "url": "https://www.apple.com/newsroom/2016/09/apple-introduces-apple-watch-series-2/"
       }
     ],
-    "cats": [
-      "Hardware",
-      "Apple Watch"
-    ]
+    "cats": ["Hardware", "Apple Watch"]
   },
   {
     "name": "MagSafe Battery Pack",
@@ -1956,10 +1637,7 @@
     "desc": "Apple's magnetic battery pack for iPhone 12 and later, elegant but small and slow compared with third-party alternatives. Discontinued when the iPhone moved from Lightning to USB-C.",
     "born": 2021,
     "died": 2023,
-    "cats": [
-      "Hardware",
-      "iPhone"
-    ]
+    "cats": ["Hardware", "iPhone"]
   },
   {
     "name": "MagSafe Duo Charger",
@@ -1967,11 +1645,7 @@
     "desc": "Apple's folding travel charger for iPhone and Apple Watch. Clever, overpriced, and discontinued alongside the MagSafe Battery Pack after the USB-C iPhone transition.",
     "born": 2020,
     "died": 2023,
-    "cats": [
-      "Hardware",
-      "iPhone",
-      "Apple Watch"
-    ]
+    "cats": ["Hardware", "iPhone", "Apple Watch"]
   },
   {
     "name": "Apple USB SuperDrive",
@@ -1979,9 +1653,7 @@
     "desc": "The external CD and DVD drive that survived long after Apple removed optical drives from Macs. After 16 years, it quietly went out of stock worldwide and effectively disappeared.",
     "born": 2008,
     "died": 2024,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Apple Network Server",
@@ -1989,9 +1661,7 @@
     "desc": "A short-lived PowerPC server line that did not even run Mac OS, shipping instead with IBM AIX. Expensive, strange, and canceled during Apple's 1997 product purge.",
     "born": 1996,
     "died": 1997,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "Apple II line",
@@ -1999,9 +1669,7 @@
     "desc": "The 8-bit computer family that made Apple a real company and dominated classrooms for years. It outlived the Apple III, Lisa, and many early Macs before Apple finally ended the line in 1993.",
     "born": 1977,
     "died": 1993,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   },
   {
     "name": "LaserWriter line",
@@ -2009,8 +1677,6 @@
     "desc": "Apple's PostScript laser printer family, a key piece of the desktop publishing revolution. Once essential to the Mac ecosystem, it was killed when Steve Jobs cut non-core peripherals.",
     "born": 1985,
     "died": 1997,
-    "cats": [
-      "Hardware"
-    ]
+    "cats": ["Hardware"]
   }
 ]
