@@ -286,6 +286,24 @@
     "cats": ["Hardware"]
   },
   {
+    "name": "Apple Studio Display",
+    "icon": "🖥️",
+    "desc": "Apple's CRT and flat-panel monitor line from the translucent late-90s and early-2000s era. It carried Apple from VGA and ADC into the LCD age, then disappeared when the company consolidated its displays around the aluminum DVI Cinema lineup.",
+    "born": 1998,
+    "died": 2004,
+    "refs": [
+      {
+        "label": "Apple support specs",
+        "url": "https://support.apple.com/en-us/112282"
+      },
+      {
+        "label": "Cinema Display transition",
+        "url": "https://www.apple.com/newsroom/2004/06/28Apple-Unveils-30-Cinema-HD-Flat-Display/"
+      }
+    ],
+    "cats": ["Hardware"]
+  },
+  {
     "name": "Final Cut Server",
     "icon": "🎬",
     "desc": "A collaborative media asset management system for Final Cut Pro workflows in studios and broadcast. Discontinued in 2011 during Apple's messy Final Cut Pro X transition.",
@@ -880,6 +898,24 @@
     "cats": ["Feature", "Hardware", "iPhone", "iPad", "iPod"]
   },
   {
+    "name": "Apple Display Connector",
+    "icon": "🔌",
+    "desc": "Apple's one-cable display connector that combined power, USB, and video for flat-panel Macs. Elegant and very Apple, but proprietary enough that it was swept away when Apple moved its displays to industry-standard DVI.",
+    "born": 2000,
+    "died": 2004,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2000/07/19Apple-Unveils-All-New-Family-of-Displays-to-Complement-Power-Mac-G4-Cube-and-Power-Mac-G4/"
+      },
+      {
+        "label": "DVI display transition",
+        "url": "https://www.apple.com/newsroom/2004/06/28Apple-Unveils-30-Cinema-HD-Flat-Display/"
+      }
+    ],
+    "cats": ["Feature", "Hardware"]
+  },
+  {
     "name": "WebObjects",
     "icon": "🌐",
     "desc": "A powerful web application server born at NeXT that Apple used to run the iTunes Store. Quietly deprecated in 2016 with no migration path for the enterprise customers who relied on it.",
@@ -1066,6 +1102,24 @@
     "cats": ["Mac", "Hardware"]
   },
   {
+    "name": "iMac G5",
+    "icon": "🖥️",
+    "desc": "The flat-panel all-in-one that hid the whole computer behind the screen and paved the way for every modern iMac. It barely had time to settle in before Apple switched the line to Intel.",
+    "born": 2004,
+    "died": 2006,
+    "refs": [
+      {
+        "label": "Apple launch",
+        "url": "https://www.apple.com/newsroom/2004/08/31Apple-Unveils-the-New-iMac-G5/"
+      },
+      {
+        "label": "Intel iMac replacement",
+        "url": "https://www.apple.com/newsroom/2006/01/10Apple-Unveils-New-iMac-with-Intel-Core-Duo-Processor/"
+      }
+    ],
+    "cats": ["Mac", "Hardware"]
+  },
+  {
     "name": "iBook",
     "icon": "💻",
     "desc": "Apple's consumer laptop line, born as the colorful G3 clamshell in tangerine and blueberry and later refined into the white iBook. Retired when Apple switched to Intel and replaced it with the MacBook.",
@@ -1079,6 +1133,24 @@
       {
         "label": "MacBook replacement",
         "url": "https://www.apple.com/newsroom/2006/05/16Apple-Unveils-New-MacBook-Featuring-Intel-Core-Duo-Processors/"
+      }
+    ],
+    "cats": ["Mac", "Hardware"]
+  },
+  {
+    "name": "Power Mac G4",
+    "icon": "🗄️",
+    "desc": "Apple's pro tower line through the early Mac OS X years, spanning Graphite, Quicksilver, Mirrored Drive Doors, and the first mass-market dual-processor Macs. It defined the classic expandable Power Mac before the G5 made everything larger, louder, and 64-bit.",
+    "born": 1999,
+    "died": 2003,
+    "refs": [
+      {
+        "label": "Apple support specs",
+        "url": "https://support.apple.com/en-us/112296"
+      },
+      {
+        "label": "Power Mac G5 replacement",
+        "url": "https://www.apple.com/newsroom/2003/06/23Apple-Unleashes-the-Worlds-Fastest-Personal-Computer-the-Power-Mac-G5/"
       }
     ],
     "cats": ["Mac", "Hardware"]
@@ -1125,6 +1197,42 @@
     "desc": "The round USB mouse that shipped with the original iMac G3. Impossible to orient by feel and hated by every reviewer who touched it. Replaced within two years by the Apple Pro Mouse and remembered as a cautionary tale in industrial design.",
     "born": 1998,
     "died": 2000,
+    "cats": ["Hardware"]
+  },
+  {
+    "name": "Apple Pro Mouse",
+    "icon": "🖱️",
+    "desc": "Apple's first optical mouse, shipped in translucent clear plastic after the hockey puck debacle. Cleaner, saner, and still stubbornly one-button until Mighty Mouse finally gave Apple users scrolling and right-click.",
+    "born": 2000,
+    "died": 2005,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2000/07/19Apple-Unveils-Optical-Mouse-and-New-Pro-Keyboard/"
+      },
+      {
+        "label": "Mighty Mouse replacement",
+        "url": "https://www.apple.com/newsroom/2005/08/02Apple-Introduces-Mighty-Mouse/"
+      }
+    ],
+    "cats": ["Hardware"]
+  },
+  {
+    "name": "Apple Pro Keyboard",
+    "icon": "⌨️",
+    "desc": "Apple's full-size clear-plastic desktop keyboard with built-in USB ports, bundled across the early G4 era. It lasted until Apple went thinner, flatter, and aluminum with the 2007 Apple Keyboard.",
+    "born": 2000,
+    "died": 2007,
+    "refs": [
+      {
+        "label": "Apple announcement",
+        "url": "https://www.apple.com/newsroom/2000/07/19Apple-Unveils-Optical-Mouse-and-New-Pro-Keyboard/"
+      },
+      {
+        "label": "Aluminum keyboard transition",
+        "url": "https://www.apple.com/newsroom/2007/08/07Apple-Unveils-New-iMac/"
+      }
+    ],
     "cats": ["Hardware"]
   },
   {
