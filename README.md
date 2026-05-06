@@ -1,6 +1,6 @@
 # Killed by Apple
 
-A small static site documenting Apple products, services, and features that have been discontinued.
+A site documenting Apple's discontinued products, services, and features.
 
 ## Editing Content
 
