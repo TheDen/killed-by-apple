@@ -2014,6 +2014,6 @@
     "desc": "MacOS’s app launcher, showing installed apps in an iPad-like grid so a user could open, organize, search, and delete apps quickly. It was replaced in MacOS Tahoe by Spotlight Applications folder",
     "born": 2010,
     "died": 2025,
-    "cats": ["Hardware"]
+    "cats": ["Feature"]
   }
 ]
